@@ -17,7 +17,7 @@
       <!-- Page Titile Area End -->
       <!-- Contact Us Section -->
 
-    <section class="Material-contact-section section-padding section-dark">
+    <section class="Material-contact-section section-padding">
       <div class="container">
           <div class="row">
               <!-- Section Titile -->
@@ -60,6 +60,11 @@
                         <input class="form-control" id="email" type="email" name="email" required data-error="Please enter your Email">
                         <div class="help-block with-errors"></div>
                       </div>
+                          <div class="form-group label-floating">
+                            <label class="control-label" for="phone">Phone</label>
+                            <input class="form-control" id="phone" type="text" name="phone" required data-error="Please enter your Phone">
+                            <div class="help-block with-errors"></div>
+                          </div>
                       <!-- Message -->
                       <div class="form-group label-floating">
                           <label for="message" class="control-label">Message</label>

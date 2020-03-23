@@ -6,7 +6,7 @@
       <div class="container pt-5 mb-5">
         <div class="row">
           <!--First column-->
-          <div class="col-md-6 col-lg-3 col-xl-3 footer-contact-widget">
+          <div class="col-md-6 footer-contact-widget">
               <h3 class="footer-title">About Us</h3>
               <div><a href="/" class="logo"><img src="assets/images/logo.png" alt="logo"></a></div>
               <p style="text-transform: uppercase; font-size: 14px">Experience the Best of Big Apple</p>
@@ -21,21 +21,21 @@
           </div>
           <!--/.First column-->
           <!--Third column-->
-          <!-- <div class="col-md-6 col-lg-4 col-xl-4 link-widget">
+          <div class="col-md-6 link-widget">
             <h3 class="footer-title">Get in Touch</h3>
             <p>Fancy Apple Bike Rentals & Tours locations:</p>
             <div class="mt-3"></div>
             <ul class="icon-list">
               <li><i class="mdi mdi-map-marker"></i> Central Park  -  870 7th Avenue, NY 10019 </li>
-              <li><i class="mdi mdi-map-marker"></i> Brooklyn Bridge - 1 East Broadway, NY 1003 </li>
+              <li><i class="mdi mdi-map-marker"></i> Brooklyn Bridge - 1 East Broadway, NY 10038 </li>
               <li><i class="mdi mdi-email"></i> <a href="mailto:mail@material.com" class="nocolor">info@fancyapple.com</a> </li>
               <li><i class="mdi mdi-phone-classic"></i> 917-720-8850 </li>
             </ul>
-          </div> -->
-          <!--Third column-->
-          <div class="col-md-6 col-lg-9 col-xl-9">
-            <img src="assets/images/map.jpg" alt="map" class="img-fluid">
           </div>
+          <!--Third column-->
+          <!-- <div class="col-md-6 col-lg-9 col-xl-9">
+            <img src="assets/images/map.jpg" alt="map" class="img-fluid">
+          </div> -->
           <!--/.Third column-->
 
           <!--Fourth column-->
@@ -92,7 +92,6 @@
     <script src="assets/js/jquery-min.js"></script>
     <script src="assets/js/popper.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
-
     <script src="assets/js/jquery.mixitup.min.js"></script>
     <script src="assets/js/jquery.inview.js"></script>
     <script src="assets/js/jquery.counterup.min.js"></script>
@@ -108,6 +107,5 @@
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <script src="assets/js/jquery.slicknav.js"></script>
     <script src="assets/js/main.js"></script>
-
   </body>
 </html>

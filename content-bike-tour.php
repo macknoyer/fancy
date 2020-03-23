@@ -7,7 +7,7 @@
                       <div class="title-center">
                           <div class="title-middle">
                               <h2 class="page-tagline">Order now</h2>
-                              <h1 class="page-title">Pedicab Tours</h1>
+                              <h1 class="page-title">Bike Tours</h1>
                           </div>
                       </div>
                   </div>
@@ -35,17 +35,13 @@
           <div class="mb-4">
             <h3>Overview</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="mb-4">
             <h3>Highlights</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="mb-4">
             <h3>Why Choose Us?</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="mb-4">
@@ -102,13 +98,13 @@
 
  
     <!-- Start Testimonial Section  -->
-    <section class="section-padding-top">
-    <div class="testimonial section-padding">
+    <section class="section-padding">
+    <div class="testimonial no-bg section-padding">
       <div class="container">
         <div class="row">
           <!-- Section Titile -->
           <div class="col-md-12 wow animated fadeInLeft testimonials-header" data-wow-delay=".2s">
-            <h1 class="section-title white">Words From Clients</h1>
+            <div class="section-title">Words From Clients</div>
           </div>
         </div>
         <div class="row">
@@ -150,21 +146,70 @@
           </div>
         </div>
       </div>
-    <div class="call-to-action-section">
+    </div>
+    </section>
+    <!-- Contact Us Section -->
+    <section class="Material-contact-section section-padding section-dark">
+      <div class="container">
+          <div class="row">
+              <!-- Section Titile -->
+              <div class="col-md-12 wow animated fadeInLeft" data-wow-delay=".2s">
+                  <h1 class="section-title">Contact Us</h1>
+              </div>
+          </div>
+          <div class="row">
+              <!-- contact form -->
+              <div class="col-12 wow animated fadeInRight" data-wow-delay=".2s">
+                  <form class="shake" role="form" method="post" id="contactForm" name="contact-form" data-toggle="validator">
+                      <!-- Name -->
+                      <div class="form-group label-floating">
+                        <label class="control-label" for="name">Name</label>
+                        <input class="form-control" id="name" type="text" name="name" required data-error="Please enter your name">
+                        <div class="help-block with-errors"></div>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-6">
+                      <!-- email -->
+                        <div class="form-group label-floating">
+                          <label class="control-label" for="email">Email</label>
+                          <input class="form-control" id="email" type="email" name="email" required data-error="Please enter your Email">
+                          <div class="help-block with-errors"></div>
+                        </div>
+                      </div>
+                        <div class="col-md-6">
+                          <div class="form-group label-floating">
+                            <label class="control-label" for="phone">Phone</label>
+                            <input class="form-control" id="phone" type="text" name="phone" required data-error="Please enter your Phone">
+                            <div class="help-block with-errors"></div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- Message -->
+                      <div class="form-group label-floating">
+                          <label for="message" class="control-label">Message</label>
+                          <textarea class="form-control" rows="3" id="message" name="message" required data-error="Write your message"></textarea>
+                          <div class="help-block with-errors"></div>
+                      </div>
+                      <!-- Form Submit -->
+                      <div class="form-submit mt-5">
+                          <button class="btn btn-common" type="submit" id="form-submit"><i class="material-icons mdi mdi-message-outline"></i> Send Message</button>
+                          <div id="msgSubmit" class="h3 text-center hidden"></div>
+                          <div class="clearfix"></div>
+                      </div>
+                  </form>
+              </div>
+          </div>
+      </div>
+    </section>
+<!--     <section class="call-to-action-section section-padding">
       <div class="container">
         <div class="row justify-content-between">
-          <div class="col-md-8 col-lg-8 col-xs-12 text-left wow animated fadeInLeft" data-wow-delay=".2s">
-              <h1>Call Us <a href="tel:917-720-8850">917-720-8850</a></h1>
-              <div class="fz22">Enjoy our support</div>
-          </div>
-          <div class="col-md-4 col-lg-4 col-xs-12 mt-4 text-right wow animated fadeInRight" data-wow-delay=".3s">
-              <a href="javascript:void(0)" class="animated4 btn btn-common"><i class="material-icons mdi mdi-phone"></i> Contact us</a>
+          <div class="col-12 text-left wow animated fadeInLeft" data-wow-delay=".2s">
+              <div class="h1">Call Us <a href="tel:917-720-8850">917-720-8850</a></div>
           </div>
         </div>
       </div>
-    </div>
-    </div>
-    </section>
+    </section> -->
     <!-- End Testimonial Section  -->
     <!-- Call to action Section -->
 
