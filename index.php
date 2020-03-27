@@ -85,7 +85,7 @@
             </div>
           </div>
 
-    <section class="types section-padding">
+    <section class="types section-padding section-dark">
       <div class="container-fluid">
         <div class="row">
           <!-- Section Titile -->
@@ -132,7 +132,7 @@
       </div>
     </section>
     <!-- About Section -->
-    <section class="Material-about-section section-padding section-dark">
+    <section class="Material-about-section section-padding">
       <div class="container">
         <div class="row">
           <!-- Section Titile -->
@@ -170,7 +170,7 @@
             <div class="about-single">
               <i class="material-icons">directions_bike</i>
               <h2 class="subtitle">Variety of options</h2>
-              <p>tandem bikes, children’s bikes, and male and female options</p>
+              <p>Tandem bikes, children’s bikes, and male and female options</p>
             </div>
           </div>
           <!-- Single About -->
@@ -179,6 +179,31 @@
               <i class="material-icons">star</i>
               <h2 class="subtitle">5-stars service</h2>
               <p>Best bike rentals and tours services in NYC</p>
+            </div>
+          </div>
+          <!-- Single About -->
+          <div class="col-md-6 col-lg wow animated fadeInUp" data-wow-delay=".5s">
+            <div class="about-single">
+              <i class="material-icons">high_quality</i>
+              <h2 class="subtitle">Top-quality equipment</h2>
+              <p>Best bike equipment in NYC</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="section-padding section-dark">
+      <div class="container">
+        <div class="row gg-pricing-table icon-table">
+          <div class="col-md-4 wow fadeInUp animated" data-wow-delay=".3s">
+            <div class="single-pricing-table text-center clearfix">
+                <!-- Heading -->
+                <div class="pricing-table-heading">
+                    <div class="locations-img">
+                        <img src="assets/images/pedicab.jpg" alt="" class="center-block img-fluid">
+                    </div>
+                    <h2>Manhattan</h2>
+                </div>
             </div>
           </div>
         </div>

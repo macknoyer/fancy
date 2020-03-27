@@ -15,84 +15,137 @@
           </div>
       </section>
       <!-- Page Titile Area End -->
-<section class="section-padding section-dark">
+<section class="section-padding">
+  <div class="container">
+      <div class="mb-4">
+        <p>Discover New York City in style with the most Exciting and Eco-friendly transportation - Pedicab! Professional Pedicab Operator & Tour Guide will make sure you have the most enjoyable experience.</p>
+        <h3>Pedicab Facts:</h3>
+        <ol>
+          <li>The best way to get through the busy streets of NYC</li>
+          <li>Pedicabs provide more freedom taking you to the areas where cars or buses can't go </li>
+          <li>It's the safest transportation of NYC </li>
+          <li>Our pedicabs are boosted with state-of-the-art pedal assisting system to give you the smoothest ride</li>
+          <li>We love our planet, Pedicabs are pollution free!</li>
+          <li>Pedicabs are just Fun to ride and have a panoramic 360-degree view for your enjoyment</li>
+          <li>It's private! So you won't get squeezed by a few dozen people like on a Bus Tour</li>
+        </ol>            
+      </div>
+  </div>
+</section>
+
+    <!-- Material Pricing Table End -->
+    <!-- Material Pricing Table -->
+    <section class="Material-pricing-table-section section-padding">
       <div class="container">
-      <div class="row">
-        <div class="col-md-7">
-          <div class="mb-4">
-            <p>Discover New York City in style with the most Exciting and Eco-friendly transportation - Pedicab! Professional Pedicab Operator & Tour Guide will make sure you have the most enjoyable experience.</p>
-            <h3>Pedicab Facts:</h3>
-            <ol>
-              <li>The best way to get through the busy streets of NYC</li>
-              <li>Pedicabs provide more freedom taking you to the areas where cars or buses can't go </li>
-              <li>It's the safest transportation of NYC </li>
-              <li>Our pedicabs are boosted with state-of-the-art pedal assisting system to give you the smoothest ride</li>
-              <li>We love our planet, Pedicabs are pollution free!</li>
-              <li>Pedicabs are just Fun to ride and have a panoramic 360-degree view for your enjoyment</li>
-              <li>It's private! So you won't get squeezed by a few dozen people like on a Bus Tour</li>
-            </ol>            
-          </div>
-          <div class="mb-4">
-            <h3>Overview</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
-          <div class="mb-4">
-            <h3>Highlights</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
-          <div class="mb-4">
-            <h3>Why Choose Us?</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </div>
-          <div class="mb-4">
-            <h3>Meeting Point</h3>
-            <div class="map">
-              <img src="assets/images/map.jpg" alt="" class="img-fluid">              
-            </div>
-          </div>
-        </div>
-          <div class="col-md-5 wow fadeInUp animated" data-wow-delay=".3s">
-            <div class="gg-pricing-table icon-table">
+        <div class="row gg-pricing-table icon-table">
+          <!-- Single Table -->
+          <div class="col-md-6 wow fadeInUp animated" data-wow-delay=".3s">
             <div class="single-pricing-table text-center clearfix">
                 <!-- Heading -->
+                <div class="pricing-table-heading">
+                    <div class="pricing-icon">
+                        <img src="assets/images/pedicab.jpg" alt="" class="center-block img-fluid">
+                    </div>
+                    <h2>1 hr "Half Park" Tour </h2>
+                </div>
                 <!-- Price -->
                 <div class="price">
-                    <div class="price-item special">
-                      <div class="price-item-head"><strong>March Special</strong></div>
-                      <div class="price-item-container">$45 <span class="price-item-type">Adult</span></div> 
-                      <div class="price-item-container">$40 <span class="price-item-type">Child under 12</span></div>
-                    </div>
                     <div class="price-item old">
                       <div class="price-item-container">$75 <span class="price-item-type">Adult</span></div> 
                       <div class="price-item-container">$55 <span class="price-item-type">Child</span></div>
                     </div>
                     <div class="price-item"></div>
-                </div>
-                    <div class="pricing-hours d-sm-flex text-center justify-content-center">
-                      <a class="active" href="">1 hr Tour</a>
-                      <a href="">2 hr Tour</a>
+                    <div class="price-item special">
+                      <div class="price-item-head"><strong>March Special</strong></div>
+                      <div class="price-item-container">$45 <span class="price-item-type">Adult</span></div> 
+                      <div class="price-item-container">$40 <span class="price-item-type">Child under 12</span></div>
                     </div>
+                </div>
                 <!-- Price Item -->
                 <div class="pricing-item">
                     <ul>
                         <li><p><strong>Professional</strong> operator</p></li>
                         <li><p><strong>Tour</strong> guide & photographer</p></li>
                         <li><p><strong>Multiple</strong> Stops</p></li>
-                        <li><p><strong>Leisurely</strong>  Pace</p></li>
-                        <li><p><strong>Warm Blanket</strong> & Canopy</p></li>
+                        <li><p><strong>Leisurely</strong> Pace</p></li>
+                        <li><p><strong>Warm Blanket </strong>& Canopy</p></li>
                         <li><p><strong>Free</strong> Jokes</p></li>
                     </ul>
                 </div>
                 <!-- Button -->
                 <div class="pricing-button">
-                    <a href="javascript:void(0)" class="btn btn-common"><i class="fa fa-check"></i>Check Availability<div class="ripple-container"></div></a>
-                    <!-- <a href="javascript:void(0)" class="btn"><i class="fa fa-check"></i> View Details<div class="ripple-container"></div></a> -->
+                    <a href="javascript:void(0)" class="btn btn-common">Book Now<div class="ripple-container"></div></a>
                 </div>
             </div>
+          </div>
+          <!-- Single Table -->
+          <div class="col-md-6 wow fadeInUp animated" data-wow-delay=".3s">
+            <div class="single-pricing-table text-center clearfix">
+                <!-- Heading -->
+                <div class="pricing-table-heading">
+                    <div class="pricing-icon">
+                        <img src="assets/images/pedicab2.jpg" alt="" class="center-block img-fluid">
+                    </div>
+                    <h2>2 hr "All Park" Tour</h2>
+                </div>
+                <!-- Price -->
+                <div class="price">
+                    <div class="price-item old">
+                      <div class="price-item-container">$155 <span class="price-item-type">Adult</span></div> 
+                      <div class="price-item-container">$115 <span class="price-item-type">Child</span></div>
+                    </div>
+                    <div class="price-item"></div>
+                    <div class="price-item special">
+                      <div class="price-item-head"><strong>March Special</strong></div>
+                      <div class="price-item-container">$85 <span class="price-item-type">Adult</span></div> 
+                      <div class="price-item-container">$80 <span class="price-item-type">Child under 12</span></div>
+                    </div>
+                </div>
+                <!-- Price Item -->
+                <div class="pricing-item">
+                    <ul>
+                        <li><p><strong>Professional</strong> operator</p></li>
+                        <li><p><strong>Tour</strong> guide & photographer</p></li>
+                        <li><p><strong>Multiple</strong> Stops</p></li>
+                        <li><p><strong>Leisurely</strong> Pace</p></li>
+                        <li><p><strong>Warm Blanket </strong>& Canopy</p></li>
+                        <li><p><strong>Free</strong> Jokes</p></li>
+                    </ul>
+                </div>
+                <!-- Button -->
+                <div class="pricing-button">
+                    <a href="javascript:void(0)" class="btn btn-common">Book Now<div class="ripple-container"></div></a>
+                </div>
             </div>
           </div>
+        </div>
       </div>
-        
+    </section>
+    <!-- Material Pricing Table End -->
+<section class="section-padding section-dark">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="mb-4">
+              <h3>Overview</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="mb-4">
+              <h3>Highlights</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="mb-4">
+              <h3>Why Choose Us?</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </div>
+            <div class="mb-4">
+              <h3>Meeting Point</h3>
+              <div class="map">
+                <img src="assets/images/map.jpg" alt="" class="img-fluid">              
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
