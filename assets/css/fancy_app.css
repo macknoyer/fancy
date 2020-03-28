@@ -459,7 +459,12 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title {
 .footer-contact-widget ul li a .mdi-instagram {
 	background: #e1306c;
 }
-
+.icon-table .single-pricing-table {
+	background: #fff;
+}
+.icon-table .single-pricing-table.index {
+	padding-bottom: 50px;
+}
 .icon-table .single-pricing-table .price .price-item span{
 	font-size: 24px;
 	font-weight: normal;
@@ -565,6 +570,11 @@ ol li {
 }
 .locations-img {
 	margin: 0 -20px;
+	overflow: hidden;
+	height: 270px;
+}
+.locations-img img{
+	object-fit: cover;
 }
 .testimonial.no-bg {
 	background: none;
@@ -585,8 +595,19 @@ ol li {
 	color:#333;
 }
 .bikes-carousel{
-	border-bottom: 1px solid #cfcfcf;
-	padding-bottom: 20px;
+	padding: 40px 0;
+	background-color: #fff;
+}
+.Material-tab-default .tab-content {
+	background-color: #fff;
+}
+.Material-tab-default .nav-tabs .nav-item.show .nav-link, .Material-tab-default .nav-tabs .nav-link.active {
+	color:#333;
+	border-bottom: 2px solid #FB8C00;
+	background: transparent;
+}
+.Material-tab-default ul.nav.nav-tabs li a:hover{
+	color:#333 !important;
 }
 .bikes-carousel .owl-buttons div,.picnic-carousel .owl-buttons div{
 	position: absolute;

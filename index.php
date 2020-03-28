@@ -194,15 +194,46 @@
     </section>
     <section class="section-padding section-dark">
       <div class="container">
+        <div class="row">
+          <!-- Section Titile -->
+          <div class="col-md-12 wow animated fadeInLeft" data-wow-delay=".2s">
+            <h1 class="section-title">Our locations</h1>
+          </div>
+        </div>
         <div class="row gg-pricing-table icon-table">
           <div class="col-md-4 wow fadeInUp animated" data-wow-delay=".3s">
-            <div class="single-pricing-table text-center clearfix">
+            <div class="single-pricing-table index text-center clearfix">
                 <!-- Heading -->
                 <div class="pricing-table-heading">
                     <div class="locations-img">
-                        <img src="assets/images/pedicab.jpg" alt="" class="center-block img-fluid">
+                        <img src="assets/images/map-index.jpg" alt="" class="center-block img-fluid">
                     </div>
                     <h2>Manhattan</h2>
+                    <div>Our meeting points on Manhattan</div>
+                </div>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInUp animated" data-wow-delay=".3s">
+            <div class="single-pricing-table index text-center clearfix">
+                <!-- Heading -->
+                <div class="pricing-table-heading">
+                    <div class="locations-img">
+                        <img src="assets/images/central-park.jpg" alt="" class="center-block img-fluid">
+                    </div>
+                    <h2>Central Park</h2>
+                    <div>Our Central Park location is on<br> 870 7th Avenue, NY 10019</div>
+                </div>
+            </div>
+          </div>
+          <div class="col-md-4 wow fadeInUp animated" data-wow-delay=".3s">
+            <div class="single-pricing-table index text-center clearfix">
+                <!-- Heading -->
+                <div class="pricing-table-heading">
+                    <div class="locations-img">
+                        <img src="assets/images/brooklyn-bridge.jpg" alt="" class="center-block img-fluid">
+                    </div>
+                    <h2>Brooklyn Bridge</h2>
+                    <div>Our Brooklyn Bridge location is on<br> 1 East Broadway, NY 10038 </div>
                 </div>
             </div>
           </div>

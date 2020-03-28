@@ -15,7 +15,7 @@
           </div>
       </section>
       <!-- Page Titile Area End -->
-<section class="section-padding section-dark">
+<section class="section-padding">
       <div class="container">
       <div class="row">
         <div class="col-md-7">
@@ -98,7 +98,7 @@
 
  
     <!-- Start Testimonial Section  -->
-    <section class="section-padding">
+    <section class="section-padding section-dark">
     <div class="testimonial no-bg section-padding">
       <div class="container">
         <div class="row">
@@ -148,6 +148,12 @@
       </div>
     </div>
     </section>
+      <section class="section-padding">
+        <div class="container">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+        </div>
+      </section>
     <!-- Contact Us Section -->
     <section class="Material-contact-section section-padding section-dark">
       <div class="container">

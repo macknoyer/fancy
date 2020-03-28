@@ -6,8 +6,8 @@
                   <div class="col-md-12">
                       <div class="title-center">
                           <div class="title-middle">
-                              <h2 class="page-tagline">Order now</h2>
-                              <h1 class="page-title">bike + picnic</h1>
+                              <h2 class="page-tagline">New York's premier</h2>
+                              <h1 class="page-title">Bike Rentals</h1>
                           </div>
                       </div>
                   </div>
@@ -15,49 +15,104 @@
           </div>
       </section>
       <!-- Page Titile Area End -->
-    <section>
-          <div class="owl-Carousel picnic-carousel">
-            <div><img width="100%" src="assets/images/picnic.jpg" alt="" class="img-fluid"></div>
-            <div><img width="100%" src="assets/images/picnic.jpg" alt="" class="img-fluid"></div>
-            <div><img width="100%" src="assets/images/picnic.jpg" alt="" class="img-fluid"></div>
-          </div>
-    </section>
-    <section class="section-padding">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6">
-            <img src="assets/images/picnic2.jpg" alt="" class="img-fluid">
-          </div>
-          <div class="col-md-6">
+      <section class="section-padding section-dark">
+          <div class="container">
+            <div class="row">
+              <!-- Section Titile -->
+              <div class="col-md-12 wow animated fadeInLeft testimonials-header" data-wow-delay=".2s">
+                <div class="section-title">Adults</div>
+              </div>
+            </div>
+            <div class="shadow-card">
             <div class="mb-4">
-              <h4>Enjoy Biking and Perfect Picnic in Central Park</h4>
-              <strong>Includes:</strong>
-              <ul>
-                <li>2 Bikes 5-hr Rental, lock, helmet & map</li>
-                <li>Classic Picnic for 2 by Perfect Picnic NYC</li>
-                <li>Picnic Totebag/Basket</li>
-                <li>Blanket</li>
-              </ul>
+              <div class="row">
+                <div class="col-12">
+                  <div class="owl-Carousel bikes-carousel">
+                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike1.webp" alt=""></div>
+                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike2.webp" alt=""></div>
+                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3.webp" alt=""></div>
+                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3-1.webp" alt=""></div>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div class="mb-4">
-              <h4>Classic Picnic - signature European style picnic. Serves 2</h4>
-              <ul>
-                <li>2 Locally produced cheese</li>
-                <li>Marinated Olives</li>
-                <li>Black Tea and fig jam</li>
-                <li>2 fine desserts</li>
-                <li>2 Bottles of Spring water</li>
-                <li>2 Cured meats from Salumeria Biellese</li>
-                <li>1 Fresh baked baguette</li>
-              </ul>
-            </div>
-            <div class="d-sm-flex justify-content-center">
-              <a href="javascript:void(0)" class="btn btn-common">Book Now<div class="ripple-container"></div></a>
+            <form action="" class="d-sm-flex align-items-end justify-content-center">
+              <div class="form__container inline">
+                <label for="time">Select time</label>
+                <select name="" id="time" class="selectpicker">
+                  <option value="">1 hour</option>
+                  <option value="">2 hours</option>
+                  <option value="">3 hours</option>
+                  <option value="">5 hours</option>
+                  <option value="">All Day</option>
+                  <option value="">24 hours</option>
+                  <option value="">48 hours</option>
+                  <option value="">72 hours</option>
+                </select>
+                
+              </div>
+              <div class="form__container inline">
+                <label for="date">Select date</label>
+                <input id="date" type="text" class="form__container-input datepicker-here" data-position="right top" placeholder="00.00.0000">
+                
+              </div>
+              <div class="form__container inline">
+                <a href="#" class="btn btn-common">Check Avalibility</a>
+                
+              </div>
+            </form>
             </div>
           </div>
-        </div>
-      </div>
-    </section>
+      </section>
+      <section class="section-padding">
+          <div class="container">
+            <div class="row">
+              <!-- Section Titile -->
+              <div class="col-md-12 wow animated fadeInLeft testimonials-header" data-wow-delay=".2s">
+                <div class="section-title">Child & Adds</div>
+              </div>
+            </div>
+            <div class="shadow-card">
+            <div class="mb-4">
+              <div class="row">
+                <div class="col-12">
+                  <div class="owl-Carousel bikes-carousel">
+                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike4-child.webp" alt=""></div>
+                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike6-child-add.webp" alt=""></div>
+                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/child-add.jpg" alt=""></div>
+                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3-1.webp" alt=""></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <form action="" class="d-sm-flex align-items-end justify-content-center">
+              <div class="form__container inline">
+                <label for="time">Select time</label>
+                <select name="" id="time" class="selectpicker">
+                  <option value="">1 hour</option>
+                  <option value="">2 hours</option>
+                  <option value="">3 hours</option>
+                  <option value="">5 hours</option>
+                  <option value="">All Day</option>
+                  <option value="">24 hours</option>
+                  <option value="">48 hours</option>
+                  <option value="">72 hours</option>
+                </select>
+                
+              </div>
+              <div class="form__container inline">
+                <label for="date">Select date</label>
+                <input id="date" type="text" class="form__container-input datepicker-here" data-position="right top" placeholder="00.00.0000">
+                
+              </div>
+              <div class="form__container inline">
+                <a href="#" class="btn btn-common">Check Avalibility</a>
+                
+              </div>
+            </form>
+            </div>
+          </div>
+      </section>
     <!-- Start Testimonial Section  -->
     <section class="section-padding section-dark">
     <div class="testimonial no-bg section-padding">

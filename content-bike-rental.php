@@ -15,106 +15,62 @@
           </div>
       </section>
       <!-- Page Titile Area End -->
-      <section class="section-padding section-dark">
-          <div class="container">
-            <div class="row">
-              <!-- Section Titile -->
-              <div class="col-md-12 wow animated fadeInLeft testimonials-header" data-wow-delay=".2s">
-                <div class="section-title">Adults</div>
-              </div>
-            </div>
-            <div class="shadow-card">
-            <div class="mb-4">
-              <div class="row">
-                <div class="col-12">
-                  <div class="owl-Carousel bikes-carousel">
-                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike1.webp" alt=""></div>
-                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike2.webp" alt=""></div>
-                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3.webp" alt=""></div>
-                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3-1.webp" alt=""></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <form action="" class="d-sm-flex align-items-end justify-content-center">
-              <div class="form__container inline">
-                <label for="time">Select time</label>
-                <select name="" id="time" class="selectpicker">
-                  <option value="">1 hour</option>
-                  <option value="">2 hours</option>
-                  <option value="">3 hours</option>
-                  <option value="">5 hours</option>
-                  <option value="">All Day</option>
-                  <option value="">24 hours</option>
-                  <option value="">48 hours</option>
-                  <option value="">72 hours</option>
-                </select>
-                
-              </div>
-              <div class="form__container inline">
-                <label for="date">Select date</label>
-                <input id="date" type="text" class="form__container-input datepicker-here" data-position="right top" placeholder="00.00.0000">
-                
-              </div>
-              <div class="form__container inline">
-                <a href="#" class="btn btn-common">Check Avalibility</a>
-                
-              </div>
-            </form>
-            </div>
-          </div>
-      </section>
       <section class="section-padding">
-          <div class="container">
-            <div class="row">
-              <!-- Section Titile -->
-              <div class="col-md-12 wow animated fadeInLeft testimonials-header" data-wow-delay=".2s">
-                <div class="section-title">Child & Adds</div>
-              </div>
-            </div>
-            <div class="shadow-card">
-            <div class="mb-4">
-              <div class="row">
-                <div class="col-12">
-                  <div class="owl-Carousel bikes-carousel">
-                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike4-child.webp" alt=""></div>
-                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike6-child-add.webp" alt=""></div>
-                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/child-add.jpg" alt=""></div>
-                    <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3-1.webp" alt=""></div>
+        <div class="container">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+        </div>
+      </section>
+      <section class="section-padding section-dark">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="Material-tab-default">
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-tabs text-center" id="myTab" role="tablist">
+                      <li class="nav-item">
+                        <a class="nav-link active show" data-toggle="tab" href="#home" role="tab" aria-selected="false">Adults</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#profile" role="tab" aria-selected="false">Child & Adds<div class="ripple-container"></div></a>
+                      </li>
+                    </ul>
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                      <div class="tab-pane fade active show" id="home" role="tabpanel">
+                        <div class="owl-Carousel bikes-carousel">
+                          <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike1.webp" alt=""></div>
+                          <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike2.webp" alt=""></div>
+                          <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3.webp" alt=""></div>
+                          <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3-1.webp" alt=""></div>
+                        </div>
+                      </div>
+                      <div class="tab-pane fade" id="profile" role="tabpanel">
+                        <div class="owl-Carousel bikes-carousel">
+                          <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike4-child.webp" alt=""></div>
+                          <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike6-child-add.webp" alt=""></div>
+                          <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/child-add.jpg" alt=""></div>
+                          <div><img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3-1.webp" alt=""></div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <img class="img-fluid" src="assets/images/fareharbor.png" alt="">
+                        </div>
+                      </div>
+                    </div>
                   </div>
-                </div>
-              </div>
-            </div>
-            <form action="" class="d-sm-flex align-items-end justify-content-center">
-              <div class="form__container inline">
-                <label for="time">Select time</label>
-                <select name="" id="time" class="selectpicker">
-                  <option value="">1 hour</option>
-                  <option value="">2 hours</option>
-                  <option value="">3 hours</option>
-                  <option value="">5 hours</option>
-                  <option value="">All Day</option>
-                  <option value="">24 hours</option>
-                  <option value="">48 hours</option>
-                  <option value="">72 hours</option>
-                </select>
-                
-              </div>
-              <div class="form__container inline">
-                <label for="date">Select date</label>
-                <input id="date" type="text" class="form__container-input datepicker-here" data-position="right top" placeholder="00.00.0000">
-                
-              </div>
-              <div class="form__container inline">
-                <a href="#" class="btn btn-common">Check Avalibility</a>
-                
-              </div>
-            </form>
+              
             </div>
           </div>
+        </div>
       </section>
     <!-- Start Testimonial Section  -->
-    <section class="section-padding section-dark">
+    <section class="section-padding">
     <div class="testimonial no-bg section-padding">
       <div class="container">
         <div class="row">
@@ -164,6 +120,12 @@
       </div>
     </div>
     </section>
+      <section class="section-padding section-dark">
+        <div class="container">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+        </div>
+      </section>
     <!-- Contact Us Section -->
     <section class="Material-contact-section section-padding">
       <div class="container">
