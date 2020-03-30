@@ -39,7 +39,7 @@
       <div class="container">
         <div class="row gg-pricing-table icon-table">
           <!-- Single Table -->
-          <div class="col-md-6 wow fadeInUp animated" data-wow-delay=".3s">
+          <div class="col-lg-6 wow fadeInUp animated" data-wow-delay=".3s">
             <div class="single-pricing-table text-center clearfix">
                 <!-- Heading -->
                 <div class="pricing-table-heading">
@@ -79,7 +79,7 @@
             </div>
           </div>
           <!-- Single Table -->
-          <div class="col-md-6 wow fadeInUp animated" data-wow-delay=".3s">
+          <div class="col-lg-6 wow fadeInUp animated" data-wow-delay=".3s">
             <div class="single-pricing-table text-center clearfix">
                 <!-- Heading -->
                 <div class="pricing-table-heading">

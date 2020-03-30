@@ -25,7 +25,7 @@
       </div>
     </div>
     <!-- Main Carousel Section End -->
-          <div class="awwards">
+          <div class="section-padding">
           <div class="row">
             <!-- Section Titile -->
             <div class="col-md-12 wow animated fadeInLeft" data-wow-delay=".2s">
@@ -201,7 +201,7 @@
           </div>
         </div>
         <div class="row gg-pricing-table icon-table">
-          <div class="col-md-4 wow fadeInUp animated" data-wow-delay=".3s">
+          <div class="col-lg-4 wow fadeInUp animated" data-wow-delay=".3s">
             <div class="single-pricing-table index text-center clearfix">
                 <!-- Heading -->
                 <div class="pricing-table-heading">
@@ -213,7 +213,7 @@
                 </div>
             </div>
           </div>
-          <div class="col-md-4 wow fadeInUp animated" data-wow-delay=".3s">
+          <div class="col-lg-4 wow fadeInUp animated" data-wow-delay=".3s">
             <div class="single-pricing-table index text-center clearfix">
                 <!-- Heading -->
                 <div class="pricing-table-heading">
@@ -225,7 +225,7 @@
                 </div>
             </div>
           </div>
-          <div class="col-md-4 wow fadeInUp animated" data-wow-delay=".3s">
+          <div class="col-lg-4 wow fadeInUp animated" data-wow-delay=".3s">
             <div class="single-pricing-table index text-center clearfix">
                 <!-- Heading -->
                 <div class="pricing-table-heading">
@@ -254,17 +254,17 @@
           <div class="col-md-12 col-lg-6 col-xs-12 welcome-column">
             <div class="video-gallery">
               <img class="" src="assets/images/video-about.jpg" alt="">
-              <div class="overlay-gallery">
+              <!-- <div class="overlay-gallery">
                 <div class="icon-holder">
                   <div class="icon">
                     <a href="https://www.youtube.com/watch?v=r44RKWyfcFw" class="video-popup wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="0.3s" style="visibility: visible;-webkit-animation-duration: 1000ms; -moz-animation-duration: 1000ms; animation-duration: 1000ms;-webkit-animation-delay: 0.3s; -moz-animation-delay: 0.3s; animation-delay: 0.3s;"><i class="mdi mdi-play-circle-outline"></i></a>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>            
           </div>
           <div class="col-md-12 col-lg-6 col-xs-12">
-          <div class="mb-5">
+          <div>
             <p><strong>Fancy Apple</strong> is inspired by an entrepreneur who has been in the tourism industry for over 10 years. The goal is to provide the highest quality of services to deliver the best impression of the glorious New York City and gain 100% customer satisfaction no matter what.  Our dedicated team of city experts is focused to ensure that our clients have the most enjoyable & pleasant experience. </p>
             <p>On a daily basis, we search, select and provide only the best things & places this great city has to offer, so our clients <strong>GET THE BEST OF BIG APPLE !</strong></p>
           </div>

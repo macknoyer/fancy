@@ -7,30 +7,8 @@
 
     <title>New York's Finest Bike Rental &amp; Tours | High Quality | Fancy Apple</title>
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <!-- Meterial Icon CSS -->
-    <link rel="stylesheet" href="assets/css/materialdesignicons.min.css">
-    <!-- Material CSS -->
-    <link rel="stylesheet" href="assets/css/material.min.css">
-    <!-- Ripples CSS -->
-    <link rel="stylesheet" href="assets/css/ripples.min.css">
-    <!-- Owl Carousel CSS -->
-    <link rel="stylesheet" href="assets/css/owl.carousel.css">
-    <!-- Magnific Popup -->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <!-- Slicknav CSS -->
-    <link rel="stylesheet" href="assets/css/slicknav.css">
-    <!-- Animate CSS -->
-    <link rel="stylesheet" href="assets/css/animate.css">
     <!-- Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
-    <!-- Responsive CSS -->
-    <link rel="stylesheet" href="assets/css/responsive.css">
-
-
-    <!-- Color CSS Styles  -->
-    <link rel="stylesheet" type="text/css" href="assets/css/colors/yellow.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="assets/css/fancy_app.css" media="screen" />
 
   </head>
@@ -40,6 +18,7 @@
     <header id="header">
       <nav class="navbar navbar-expand-lg fixed-top scrolling-navbar nav-bg">
         <div class="container-fluid">
+          <a href="tel:917-720-8850" class="header-phone-mobile"><i class="mdi mdi-phone"></i> 917-720-8850</a>
          <!-- Brand and toggle get grouped for better mobile display -->
           <div class="navbar-header">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,7 +31,7 @@
           </div>
           <div class="collapse navbar-collapse" id="main-navbar">
             <ul class="navbar-nav mr-auto w-100 justify-content-end">
-              <li class="nav-item"><a class="nav-link" href=""><i class="mdi mdi-phone"></i>917-720-8850</a></li>
+              <li class="nav-item nav-item-phone"><a class="nav-link" href="tel:917-720-8850"><i class="mdi mdi-phone"></i>917-720-8850</a></li>
               <li class="nav-item active"><a class="nav-link" href="#">Pedicab Tours</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Bike Tours</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Bike Rentals</a></li>

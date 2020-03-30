@@ -90,22 +90,6 @@
 
     <!-- Optional JavaScript -->
     <script src="assets/js/jquery-min.js"></script>
-    <script src="assets/js/popper.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/jquery.mixitup.min.js"></script>
-    <script src="assets/js/jquery.inview.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/scroll-top.js"></script>
-    <script src="assets/js/smoothscroll.js"></script>
-    <script src="assets/js/material.min.js"></script>
-    <script src="assets/js/ripples.min.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/form-validator.min.js"></script>
-    <script src="assets/js/contact-form-script.min.js"></script>
-    <script src="assets/js/wow.js"></script>
-    <script src="assets/js/jquery.vide.js"></script>
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets/js/jquery.slicknav.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="assets/js/scripts.js"></script>
   </body>
 </html>

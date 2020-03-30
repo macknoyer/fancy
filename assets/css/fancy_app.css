@@ -603,7 +603,7 @@ ol li {
 }
 .Material-tab-default .nav-tabs .nav-item.show .nav-link, .Material-tab-default .nav-tabs .nav-link.active {
 	color:#333;
-	border-bottom: 2px solid #FB8C00;
+	border-bottom: 2px solid #FB8C00 !important;
 	background: transparent;
 }
 .Material-tab-default ul.nav.nav-tabs li a:hover{
@@ -646,10 +646,68 @@ ol li {
     -moz-box-shadow: 0px 12px 31px -1px rgba(0,0,0,0.1);
     box-shadow: 0px 12px 31px -1px rgba(0,0,0,0.1);	
 }
+.nav-item-phone {
+	display: inline-block;
+}
+.header-phone-mobile {
+	display: none;
+	left: calc(50% - 70px);
+	top: 30px;
+	position: absolute;
+	font-weight: bold;
+	font-size: 18px;
+	color:#fff;
+}
+.slicknav_menu ul {background-color: #2b2828;padding: 30px 0;}
+.slicknav_nav a:hover, .slicknav_nav .active {
+	color:#FB8C00;
+}
+.slicknav_nav a {
+	color:#fff;
+}
 /**************************************media***************/
+
+@media (max-width: 1300px) {
+	.navbar-expand-lg .navbar-nav .nav-link {
+		font-size: 16px;
+	}
+}
+@media (max-width: 1216px) {
+	.navbar-expand-lg .navbar-nav .nav-link {
+		font-size: 14px;
+	}
+}
+@media (max-width: 1150px) {
+	.navbar-expand-lg .navbar-nav .nav-link {
+		margin-left: 10px; 
+	}
+	.icon-table .single-pricing-table {
+		height: auto;
+		margin-bottom: 44px;
+	}
+	.icon-table .col-lg-6:last-child .single-pricing-table {
+		margin-bottom: 0;
+	}
+	.locations-img img {
+		width: 100%;
+	}
+}
 @media (max-width: 992px) {
+
 	body {
 		font-size: 14px;
+	}
+	.picnic-img {
+		margin-bottom: 24px;
+	}
+	.header-phone-mobile {
+		display: inline-block;
+	}
+	.slicknav_nav li:first-child a {
+		display: none;
+	}
+	.nav-item-phone {
+		display: none;
 	}
 	.hero-heading,h1,.h1 {
     	font-size: 22px;
@@ -661,7 +719,7 @@ ol li {
 		padding: 0 15px;
 	}
 	.navbar-brand {
-		top: 15px;
+		top: 0;
 		width: 70px;
 		overflow: hidden;
 		margin-right: 0;
@@ -669,13 +727,10 @@ ol li {
 	}
 	.section-title {
 		font-size: 22px;
-		margin-bottom: 10px;
+		margin-bottom: 30px;
 	}
 	.awwards-container,.about-single {
 		margin-top: 30px;
-	}
-	.section-padding{
-		padding: 20px 0;
 	}
 	.welcome-column,.footer-contact-widget {
 		margin-bottom: 30px;
@@ -687,4 +742,14 @@ ol li {
 		background: none;
 	}
 	.testimonial::after {display: none;}
+	.types-container {
+		margin: 0px 0px 15px 0px !important;
+	}
+}
+
+@media (max-width: 768px) {
+
+	.navbar-brand {
+		top: 9px;
+	}
 }
