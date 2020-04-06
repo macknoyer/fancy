@@ -63,7 +63,7 @@
                 <div class="col-md-4">
                   <div class="awwards-container">
                      <div class="awwards-logo">
-                       <img src="assets/images/gmaps.svg" alt="">
+                       <img src="assets/images/google-maps-icon.png" alt="">
                      </div>
                      <div class="awwards-header">
                        <div>Google Maps rating</div>
