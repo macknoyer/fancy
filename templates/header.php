@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/fancy_app.css" media="screen" />
 
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined">
   </head>
   <body>
 
