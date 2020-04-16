@@ -1,18 +1,42 @@
 <?php include('templates/header.php');?>
       <!-- Page Titile Area -->
       <section class="page-title-section section-padding">
-          <div class="container">
-              <div class="row">
-                  <div class="col-md-12">
-                      <div class="title-center">
-                          <div class="title-middle">
-                              <h2 class="page-tagline">Order now</h2>
-                              <h1 class="page-title">Pedicab Tours</h1>
+        <div class="page-title-slider owl-Carousel">
+          <div class="page-title-slider-item">
+            <img src="assets/images/bg.jpg" alt="">
+            <div class="page-title-slider-content">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-md-12">
+                          <div class="title-center">
+                              <div class="title-middle">
+                                <h2 class="page-tagline">Order now</h2>
+                                <div class="page-title">Pedicab Tours</div>
+                              </div>
                           </div>
                       </div>
                   </div>
               </div>
+            </div>
           </div>
+          <div class="page-title-slider-item">
+            <img src="assets/images/bg.jpg" alt="">
+            <div class="page-title-slider-content">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-md-12">
+                          <div class="title-center">
+                              <div class="title-middle">
+                                <h2 class="page-tagline">Order now</h2>
+                                <div class="page-title">Pedicab Tours</div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       <!-- Page Titile Area End -->
 <section class="section-padding">
@@ -141,7 +165,7 @@
             <div class="mb-4">
               <h3>Meeting Point</h3>
               <div class="map">
-                <img src="assets/images/map.jpg" alt="" class="img-fluid">              
+                <img src="assets/images/map-index.png" alt="" class="img-fluid">              
               </div>
             </div>
           </div>

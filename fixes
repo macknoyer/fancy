@@ -1,0 +1,20 @@
+3) scale hero image on
+- mobile (scale it to show both bikes)
+http://joxi.ru/823zedZcDk4nZm
+
+11) "our services" images on mobile - use full-width images - now they are cropped out
+http://joxi.ru/xAevlgdig1PY0r
+
+Нету возможности реализовать с fareharbor (отсутствует функционал), все действия будут бесполезными
+27) to the bike rental section and title "Select Your Bike Rental"
+28) Options for selection:
+- adults/kids
+- electric bikes
+- tandems
+29) Add prices under the bikes
+- (1h, 2h, 4h, All Day) - copy prices NOT from fancyapple, prices are on https://bikerentalcentralpark.com/rentals;
+- for electric bike 1h = $18;
+2h = $28
+4h = $38
+all dady = $49
+30) add option to changes prices for the owner

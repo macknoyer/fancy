@@ -33,23 +33,30 @@
           </div>
           <div class="collapse navbar-collapse" id="main-navbar">
             <ul class="navbar-nav mr-auto w-100 justify-content-end">
-              <li class="nav-item nav-item-phone"><a class="nav-link" href="tel:917-720-8850"><i class="mdi mdi-phone"></i>917-720-8850</a></li>
-              <li class="nav-item active"><a class="nav-link" href="#">Pedicab Tours</a></li>
-              <li class="nav-item"><a class="nav-link" href="#">Bike Tours</a></li>
-              <li class="nav-item"><a class="nav-link" href="#">Bike Rentals</a></li>
-              <li class="nav-item"><a class="nav-link" href="#">Bike + Picnic</a></li>
+              <li class="nav-item dropdown active">
+                <a class="nav-link" href="#">Bike Rentals</a>
+                <div class="dropdown-menu">
+                  <a class="dropdown-item" href="#">Pedicab Tours</a>
+                  <a class="dropdown-item" href="#">Bike Tours</a>
+                </div>
+              </li>
+              <li class="nav-item"><a class="nav-link" href="#">Packages</a></li>
               <li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
               <li class="nav-item"><a class="nav-link" href="#">Contact Us</a></li>
+              <li class="nav-item nav-item-phone"><a class="nav-link" href="tel:917-720-8850"><i class="mdi mdi-phone"></i>+1917-720-8850</a></li>
             </ul>
           </div>
         </div>
         <!-- Mobile Menu Start -->
         <ul class="wpb-mobile-menu">
-          <li><a href="#"><i class="mdi mdi-phone"></i>917-720-8850</a></li>
-          <li><a class="active" href="#">Pedicab Tours</a></li>
-          <li><a href="#">Bike Tours</a></li>
-          <li><a href="#">Bike Rentals</a></li>
-          <li><a href="#">Bike + Picnic</a></li>
+          <li>
+            <a class="active" href="#">Bike Rentals</a>
+            <ul class="dropdown">
+              <li><a class="active" href="#">Pedicab Tours</a></li>
+              <li><a href="#">Bike Tours</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Packages</a></li>
           <li><a href="#">FAQ</a></li>
           <li><a href="#">Contact Us</a>
           </li>

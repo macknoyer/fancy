@@ -939,12 +939,17 @@ this.maxHours=t.getHours(),this.maxMinutes=t.getMinutes(),this.d.lastSelectedDat
   	$('#Material-image-carousel').find('.owl-next').html('<i class="mdi mdi-arrow-right"></i>');
 
 	// Image Carousel
-	$("#team-carousel").owlCarousel({
+	$(".page-title-slider").owlCarousel({
 	  slideSpeed : 300,
 	  paginationSpeed : 400,
-	  items : 4,
+	  items : 1,
 	  autoPlay: 3000,
-	  stopOnHover : true,
+	  stopOnHover : false,
+      animateOut: 'slideOutDown',
+      animateIn: 'flipInX',
+	  autoPlay: true,
+	  navigation: false,
+	  pagination: false
 	});
 
 	$(".bikes-carousel").owlCarousel({

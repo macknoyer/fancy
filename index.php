@@ -1,11 +1,28 @@
 <?php include('templates/header.php');?>
 
+    <div class="page-title-slider-item">
+      <img src="assets/images/bg.jpg" alt="">
+      <div class="page-title-slider-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="title-center">
+                        <div class="title-middle">
+                            <h2 class="page-tagline">New York's premier</h2>
+                            <div class="page-title">Bike Tours</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
     <!-- Main Carousel Section Start -->
-    <div class="hero">
+    <!-- <div class="hero">
       <div class="hero-content">
         <h1 class="wow fadeInLeft hero-heading" data-wow-delay="700ms">5-Stars bike rentals and tours</h1>
          <h3 class="wow fadeInLeft hero-sub-heading" data-wow-delay="500ms">Get the best of big apple</h3>
-          <!-- <form action="" class="hero__form shake">
+          <form action="" class="hero__form shake">
               <div class="form-group label-floating">
                 <label class="control-label" for="long">How long?</label>
                 <input class="form-control" id="long" type="text" name="long" required data-error="Please enter time in hours">
@@ -21,46 +38,46 @@
                   <div id="msgSubmit" class="h3 text-center hidden"></div>
                   <div class="clearfix"></div>
               </div>
-          </form> -->
+          </form>
       </div>
-    </div>
+    </div> -->
     <!-- Main Carousel Section End -->
           <div class="section-padding">
           <div class="row">
             <!-- Section Titile -->
-            <div class="col-md-12 wow animated fadeInLeft" data-wow-delay=".2s">
+<!--             <div class="col-md-12 wow animated fadeInLeft" data-wow-delay=".2s">
               <h1 class="section-title">Awards and Memberships</h1>
-            </div>
+            </div> -->
           </div>
             <div class="container">
               <div class="row align-items-start justify-content-center">
-                <div class="col-md-4">
+                <div class="col-md-4 awwards-mobile">
                   <div class="awwards-container">
                      <div class="awwards-logo">
-                       <img src="assets/images/tripad.png" alt="tripad">
+                       <img src="assets/images/tripad_2018.png" alt="tripad_2018">
                      </div>
                      <div class="awwards-header">
-                       TripAdvisor Certificate<br> of Excellence 2019 Winner
+                       TripAdvisor Certificate<br> of Excellence 2018 Winner
                      </div>
                     <!--  <div class="awwards-text">
                       We are Trip Advisor Certificate of Excellence winner
                      </div> -->
                   </div>
                 </div>
-                <div class="col-md-4">                
+                <div class="col-md-4 col-6">                
                   <div class="awwards-container">
                      <div class="awwards-logo">
-                       <img src="assets/images/ga.png" alt="ga">
+                       <img src="assets/images/tripad.png" alt="tripad_2019">
                      </div>
                      <div class="awwards-header">
-                       Industry partners with<br> Guides Association of New York City
+                       TripAdvisor Certificate<br> of Excellence 2019 Winner
                      </div>
                      <!-- <div class="awwards-text">
                       We are industry partners with Guides Association of New York City
                      </div> -->
                   </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-6">
                   <div class="awwards-container">
                      <div class="awwards-logo">
                        <img src="assets/images/google-maps-icon.png" alt="">
@@ -90,12 +107,13 @@
         <div class="row">
           <!-- Section Titile -->
           <div class="col-md-12 wow animated fadeInLeft" data-wow-delay=".2s">
-            <h1 class="section-title">Our Services</h1>
+            <h1 class="section-title">Top New York City Experiences</h1>
           </div>
         </div>
         <div class="row no-gutters">
           <div class="col-md-6">
             <a href="#" class="types-container tour">
+              <img src="assets/images/tour.jpg" alt="" class="types__content-img">
               <div class="types__content">
                 <div class="types__content-header">bike tours</div>
                 <div class="types__content-price"><span>From $55</span> $44 Winter Special</div>
@@ -104,6 +122,7 @@
           </div>
           <div class="col-md-6">
             <a href="#" class="types-container rent">
+              <img src="assets/images/rent.jpg" alt="" class="types__content-img">
               <div class="types__content">
                 <div class="types__content-header">BIKE RENTALS</div>
                 <div class="types__content-price">Winter Special up to 30% OFF</div>
@@ -114,6 +133,7 @@
         <div class="row no-gutters">
           <div class="col-md-6">
             <a href="#" class="types-container special">
+              <img src="assets/images/special.jpg" alt="" class="types__content-img">
               <div class="types__content">
                 <div class="types__content-header">PEDICAB TOURS</div>
                 <div class="types__content-price"><span>From $45</span> March Special</div>
@@ -122,6 +142,7 @@
           </div>
           <div class="col-md-6">
             <a href="#" class="types-container picnic">
+              <img src="assets/images/picnic.jpg" alt="" class="types__content-img">
               <div class="types__content">
                 <div class="types__content-header">bike + picnic</div>
                 <div class="types__content-price">$49 a person</div>
@@ -142,7 +163,7 @@
         </div>
         <div class="row">
           <!-- Single About -->
-          <div class="col-md-6 col-lg wow animated fadeInUp" data-wow-delay=".2s">
+          <div class="col-6 col-lg wow animated fadeInUp" data-wow-delay=".2s">
             <div class="about-single">
               <i class="material-icons">map</i>
               <h2 class="subtitle">Convenient location</h2>
@@ -150,7 +171,7 @@
             </div>
           </div>
           <!-- Single About -->
-          <div class="col-md-6 col-lg wow animated fadeInUp" data-wow-delay=".3s">
+          <div class="col-6 col-lg wow animated fadeInUp" data-wow-delay=".3s">
             <div class="about-single">
               <i class="material-icons">done_all</i>
               <h2 class="subtitle">Flexible cancellation policy</h2>
@@ -158,7 +179,7 @@
             </div>
           </div>
           <!-- Single About -->
-          <div class="col-md-6 col-lg wow animated fadeInUp" data-wow-delay=".4s">
+          <div class="col-6 col-lg wow animated fadeInUp" data-wow-delay=".4s">
             <div class="about-single">
               <i class="material-icons">attach_money</i>
               <h2 class="subtitle">Competitive pricing</h2>
@@ -166,7 +187,7 @@
             </div>
           </div>
           <!-- Single About -->
-          <div class="col-md-6 col-lg wow animated fadeInUp" data-wow-delay=".5s">
+          <div class="col-6 col-lg wow animated fadeInUp" data-wow-delay=".5s">
             <div class="about-single">
               <i class="material-icons">directions_bike</i>
               <h2 class="subtitle">Variety of options</h2>
@@ -174,7 +195,7 @@
             </div>
           </div>
           <!-- Single About -->
-          <div class="col-md-6 col-lg wow animated fadeInUp" data-wow-delay=".5s">
+          <div class="col-6 col-lg wow animated fadeInUp" data-wow-delay=".5s">
             <div class="about-single">
               <i class="material-icons">star</i>
               <h2 class="subtitle">5-stars service</h2>
@@ -182,7 +203,7 @@
             </div>
           </div>
           <!-- Single About -->
-          <div class="col-md-6 col-lg wow animated fadeInUp" data-wow-delay=".5s">
+          <div class="col-6 col-lg wow animated fadeInUp" data-wow-delay=".5s">
             <div class="about-single">
               <i class="material-icons">high_quality</i>
               <h2 class="subtitle">Top-quality equipment</h2>
@@ -206,7 +227,7 @@
                 <!-- Heading -->
                 <div class="pricing-table-heading">
                     <div class="locations-img">
-                        <img src="assets/images/map-index.jpg" alt="" class="center-block img-fluid">
+                        <img src="assets/images/map.jpg" alt="" class="center-block img-fluid">
                     </div>
                     <h2>Manhattan</h2>
                     <div>Our meeting points on Manhattan</div>
@@ -220,8 +241,13 @@
                     <div class="locations-img">
                         <img src="assets/images/central-park.jpg" alt="" class="center-block img-fluid">
                     </div>
-                    <h2>Central Park</h2>
-                    <div>Our Central Park location is on<br> 870 7th Avenue, NY 10019</div>
+                    <h2>Central Park Location</h2>
+                    <div>
+                      <div>870 7th Avenue, NY 10019</div>
+                      <div>+1-917-720-8850</div>
+                      <div>April, 1th - October, 31th: 8am - 8pm</div>
+                      <div>November, 1st - March, 31th: 9am - 5pm</div>
+                    </div>
                 </div>
             </div>
           </div>
@@ -232,8 +258,13 @@
                     <div class="locations-img">
                         <img src="assets/images/brooklyn-bridge.jpg" alt="" class="center-block img-fluid">
                     </div>
-                    <h2>Brooklyn Bridge</h2>
-                    <div>Our Brooklyn Bridge location is on<br> 1 East Broadway, NY 10038 </div>
+                    <h2>Brooklyn Bridge Location</h2>
+                    <div>
+                      <div>1 East Broadway, NY 10038</div>
+                      <div>+1-917-720-8850</div>
+                      <div>April, 1th - October, 31th: 9am - 6pm</div>
+                      <div>November, 1st - March, 31th: 9am - 5pm</div>
+                    </div>
                 </div>
             </div>
           </div>
@@ -297,34 +328,34 @@
             <div class="item">
               <div class="testimonial-item">
                 <div class="datils">
-                   <h5>Adam Schwartz</h5>
-                  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                   <h5>Great way to see central park</h5>
+                  <p>Our guide Tam was great. We thoroughly enjoyed our 2 hour tour. Took us all around the park ....<br>we were here in November so no crowds</p>
                 </div>
-                <div class="img">
+                <!-- <div class="img">
                   <a href="#"><img class="img-fluid" src="assets/images/testimonial/author1.jpg"  alt=""></a>
-                </div>
+                </div> -->
               </div>
             </div>
             <div class="item">
               <div class="testimonial-item">
                 <div class="datils">
-                  <h5>Clark Brown</h5>
-                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                  <h5>Perfect Bike esperienze!</h5>
+                 <p>Everything was perfect, the bikes we rented were good and easy to ride. Farell is very helpful and supernice.<br> I reali recomend this Place right near Central Park !</p>
                 </div>
-                <div class="img">
+                <!-- <div class="img">
                   <a href="#"><img class="img-fluid"  src="assets/images/testimonial/author2.jpg"  alt=""></a>
-                </div>
+                </div> -->
               </div>
             </div>
             <div class="item">
               <div class="testimonial-item">
                 <div class="datils">
-                  <h5>Ana Blunt</h5>
-                  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's <br> standard dummy text ever since the 1500s Lorem Ipsum.</p>
+                  <h5>Great service</h5>
+                  <p>Great experience, excellent service. The bikes are in good state and well manteined.<br> We rode most of the park in less than two hours and enjoyed every second! Great views, great exercise. We recommend to take it for at least two hours as it’s not possible to do it in an hour. Great service</p>
                 </div>
-                <div class="img">
+               <!--  <div class="img">
                   <a href="#"><img class="img-fluid"  src="assets/images/testimonial/author3.jpg"  alt=""></a>
-                </div>
+                </div> -->
               </div>
             </div>
           </div>
@@ -352,17 +383,17 @@
                   <a href="#"><i class="material-icons mdi mdi-map-marker"></i>Central Park - 870 7th Avenue, NY 10019</a>
                 </div>
                 <div class="find-widget">
-                  <a href="#"><i class="material-icons mdi mdi-map-marker"></i>Brooklyn Bridge - 1 East Broadway, NY 1003 </a>
+                  <a href="#"><i class="material-icons mdi mdi-map-marker"></i>Brooklyn Bridge - 1 East Broadway, NY 10038 </a>
                 </div>
                 <div class="find-widget">
-                    <a href="#"><i class="material-icons mdi mdi-phone"></i>+ 917-720-8850</a>
+                    <a href="#"><i class="material-icons mdi mdi-phone"></i>+1 917-720-8850</a>
                 </div>
                 <div class="find-widget">
                     <a href="#"><i class="material-icons mdi mdi-email-open mr-3"></i> info@fancyapple.com</a>
                 </div>
-                <div class="find-widget">
+                <!-- <div class="find-widget">
                     <a href="#"><i class="material-icons mdi mdi-clock"></i> Every day from 8 AM to 8 PM</a>
-                </div>
+                </div> -->
               </div>
               <!-- contact form -->
               <div class="col-md-6 wow animated fadeInRight" data-wow-delay=".2s">

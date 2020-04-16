@@ -10,7 +10,7 @@
                           <div class="title-center">
                               <div class="title-middle">
                                   <h2 class="page-tagline">New York's premier</h2>
-                                  <div class="page-title">Bike Tours</div>
+                                  <div class="page-title">Pedicab Tours</div>
                               </div>
                           </div>
                       </div>
@@ -27,7 +27,7 @@
                           <div class="title-center">
                               <div class="title-middle">
                                   <h2 class="page-tagline">New York's premier</h2>
-                                  <div class="page-title">Bike Tours</div>
+                                  <div class="page-title">Pedicab Tours</div>
                               </div>
                           </div>
                       </div>
@@ -42,9 +42,17 @@
 <section class="section-padding">
   <div class="container">
       <div class="mb-4">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>            
+        <p>Discover New York City in style with the most Exciting and Eco-friendly transportation - Pedicab! Professional Pedicab Operator & Tour Guide will make sure you have the most enjoyable experience.</p>
+        <h3>Pedicab Facts:</h3>
+        <ol>
+          <li>The best way to get through the busy streets of NYC</li>
+          <li>Pedicabs provide more freedom taking you to the areas where cars or buses can't go </li>
+          <li>It's the safest transportation of NYC </li>
+          <li>Our pedicabs are boosted with state-of-the-art pedal assisting system to give you the smoothest ride</li>
+          <li>We love our planet, Pedicabs are pollution free!</li>
+          <li>Pedicabs are just Fun to ride and have a panoramic 360-degree view for your enjoyment</li>
+          <li>It's private! So you won't get squeezed by a few dozen people like on a Bus Tour</li>
+        </ol>            
       </div>
   </div>
 </section>
@@ -55,38 +63,37 @@
       <div class="container">
         <div class="row gg-pricing-table icon-table">
           <!-- Single Table -->
-          <div class="col-lg-4 wow fadeInUp animated" data-wow-delay=".3s">
+          <div class="col-lg-6 wow fadeInUp animated" data-wow-delay=".3s">
             <div class="single-pricing-table text-center clearfix">
                 <!-- Heading -->
                 <div class="pricing-table-heading">
                     <div class="pricing-icon">
-                        <img src="assets/images/tour3.png" alt="" class="center-block img-fluid">
+                        <img src="assets/images/pedicab.jpg" alt="" class="center-block img-fluid">
                     </div>
-                    <h2>2hr Central park group tours</h2>
+                    <h2>1 hr "Half Park" Tour </h2>
                 </div>
                 <!-- Price -->
                 <div class="price">
                     <div class="price-item old">
-                      <div class="price-item-container">$55 <span class="price-item-type">Adult</span></div> 
-                      <div class="price-item-container">$45 <span class="price-item-type">Child under 12</span></div>
+                      <div class="price-item-container">$75 <span class="price-item-type">Adult</span></div> 
+                      <div class="price-item-container">$55 <span class="price-item-type">Child</span></div>
                     </div>
                     <div class="price-item"></div>
                     <div class="price-item special">
-                      <div class="price-item-head"><strong>Today Special</strong></div>
-                      <div class="price-item-container">$44 <span class="price-item-type">Adult</span></div> 
-                      <div class="price-item-container">$39 <span class="price-item-type">Child under 12</span></div>
+                      <div class="price-item-head"><strong>March Special</strong></div>
+                      <div class="price-item-container">$45 <span class="price-item-type">Adult</span></div> 
+                      <div class="price-item-container">$40 <span class="price-item-type">Child under 12</span></div>
                     </div>
                 </div>
                 <!-- Price Item -->
                 <div class="pricing-item">
                     <ul>
-                        <li><p>Tour guide</p></li>
-                        <li><p>Group up to 15 people</p></li>
-                        <li><p>Daily; 10am, 1pm</p></li>
-                        <li><p>New Bike, Helmet, Basket</p></li>
-                        <li><p>Covers all main highlights</p></li>
-                        <li><p>Multiple stops</p></li>
-                        <li><p>Leisurely pace</p></li>
+                        <li><p><strong>Professional</strong> operator</p></li>
+                        <li><p><strong>Tour</strong> guide & photographer</p></li>
+                        <li><p><strong>Multiple</strong> Stops</p></li>
+                        <li><p><strong>Leisurely</strong> Pace</p></li>
+                        <li><p><strong>Warm Blanket </strong>& Canopy</p></li>
+                        <li><p><strong>Free</strong> Jokes</p></li>
                     </ul>
                 </div>
                 <!-- Button -->
@@ -96,78 +103,37 @@
             </div>
           </div>
           <!-- Single Table -->
-          <div class="col-lg-4 wow fadeInUp animated" data-wow-delay=".3s">
+          <div class="col-lg-6 wow fadeInUp animated" data-wow-delay=".3s">
             <div class="single-pricing-table text-center clearfix">
                 <!-- Heading -->
                 <div class="pricing-table-heading">
                     <div class="pricing-icon">
-                        <img src="assets/images/tour4.png" alt="" class="center-block img-fluid">
+                        <img src="assets/images/pedicab2.jpg" alt="" class="center-block img-fluid">
                     </div>
-                    <h2>2hr Brooklyn Bridge group tours</h2>
+                    <h2>2 hr "All Park" Tour</h2>
                 </div>
                 <!-- Price -->
                 <div class="price">
                     <div class="price-item old">
-                      <div class="price-item-container">$55 <span class="price-item-type">Adult</span></div> 
-                      <div class="price-item-container">$45 <span class="price-item-type">Child under 12</span></div>
+                      <div class="price-item-container">$155 <span class="price-item-type">Adult</span></div> 
+                      <div class="price-item-container">$115 <span class="price-item-type">Child</span></div>
                     </div>
                     <div class="price-item"></div>
                     <div class="price-item special">
-                      <div class="price-item-head"><strong>Today Special</strong></div>
-                      <div class="price-item-container">$44 <span class="price-item-type">Adult</span></div> 
-                      <div class="price-item-container">$39 <span class="price-item-type">Child under 12</span></div>
-                    </div>
-                </div>
-                <!-- Price Item -->
-                <div class="pricing-item">
-                    <ul>
-                        <li><p>Tour guide</p></li>
-                        <li><p>Group up to 15 people</p></li>
-                        <li><p>Daily; 10am, 1pm</p></li>
-                        <li><p>New Bike, Helmet, Basket</p></li>
-                        <li><p>Covers all main highlights</p></li>
-                        <li><p>Multiple stops</p></li>
-                        <li><p>Leisurely pace</p></li>
-                    </ul>
-                </div>
-                <!-- Button -->
-                <div class="pricing-button">
-                    <a href="javascript:void(0)" class="btn btn-common">Book Now<div class="ripple-container"></div></a>
-                </div>
-            </div>
-          </div>
-          <div class="col-lg-4 wow fadeInUp animated" data-wow-delay=".3s">
-            <div class="single-pricing-table text-center clearfix">
-                <!-- Heading -->
-                <div class="pricing-table-heading">
-                    <div class="pricing-icon">
-                        <img src="assets/images/tour5.jpg" alt="" class="center-block img-fluid">
-                    </div>
-                    <h2>Private tour</h2>
-                </div>
-                <!-- Price -->
-                <div class="price">
-                    <div class="price-item old">
+                      <div class="price-item-head"><strong>March Special</strong></div>
                       <div class="price-item-container">$85 <span class="price-item-type">Adult</span></div> 
-                      <div class="price-item-container">$65 <span class="price-item-type">Child under 12</span></div>
-                    </div>
-                    <div class="price-item"></div>
-                    <div class="price-item special">
-                      <div class="price-item-head"><strong>Today Special</strong></div>
-                      <div class="price-item-container">$75 <span class="price-item-type">Adult</span></div> 
-                      <div class="price-item-container">$60 <span class="price-item-type">Child under 12</span></div>
+                      <div class="price-item-container">$80 <span class="price-item-type">Child under 12</span></div>
                     </div>
                 </div>
                 <!-- Price Item -->
                 <div class="pricing-item">
                     <ul>
-                        <li><p>Customizable </p></li>
-                        <li><p>Private</p></li>
-                        <li><p>Tour guide </p></li>
-                        <li><p>New Bike, Helmet, Basket</p></li>
-                        <li><p>Covers all main highlights</p></li>
-                        <li><p>Multiple stops</p></li>
-                        <li><p>Leisurely pace</p></li>
+                        <li><p><strong>Professional</strong> operator</p></li>
+                        <li><p><strong>Tour</strong> guide & photographer</p></li>
+                        <li><p><strong>Multiple</strong> Stops</p></li>
+                        <li><p><strong>Leisurely</strong> Pace</p></li>
+                        <li><p><strong>Warm Blanket </strong>& Canopy</p></li>
+                        <li><p><strong>Free</strong> Jokes</p></li>
                     </ul>
                 </div>
                 <!-- Button -->
@@ -199,7 +165,7 @@
             <div class="mb-4">
               <h3>Meeting Point</h3>
               <div class="map">
-                <img src="assets/images/map-index.png" alt="" class="img-fluid">              
+                <img src="assets/images/map.jpg" alt="" class="img-fluid">              
               </div>
             </div>
           </div>
