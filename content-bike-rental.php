@@ -337,7 +337,7 @@
                         <div class="col-md-6">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
                             <div>
-                              <a href="javascript:void(0)" class="btn btn-common"><i class="fa fa-check"></i> Order Now<div class="ripple-container"></div></a>
+                              <a href="javascript:void(0)" class="btn btn-common w100"><i class="fa fa-check"></i> Order Now<div class="ripple-container"></div></a>
                             </div>
                         </div>
                         <div class="col-md-6 text-center">

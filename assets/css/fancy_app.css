@@ -215,6 +215,9 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title,.page-title {
 	font-weight: 700 !important;
 	padding: 20px 50px;
 }
+.btn-common.w100 {
+	width: 100%;
+}
 .btn-common i{
 	display: none;
 }
@@ -768,6 +771,10 @@ ol li {
 
 .page-title-slider-item {
 	position: relative;
+}
+.page-title-slider-item img {
+	width: 100%;
+	height: auto;
 }
 .page-title-slider-item .page-title-slider-content{
 	position: absolute;

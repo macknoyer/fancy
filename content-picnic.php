@@ -1,27 +1,44 @@
 <?php include('templates/header.php');?>
       <!-- Page Titile Area -->
       <section class="page-title-section section-padding">
-          <div class="container">
-              <div class="row">
-                  <div class="col-md-12">
-                      <div class="title-center">
-                          <div class="title-middle">
-                              <h2 class="page-tagline">Order now</h2>
-                              <h1 class="page-title">bike + picnic</h1>
+        <div class="page-title-slider owl-Carousel">
+          <div class="page-title-slider-item">
+            <img src="assets/images/picnic.jpg" alt="">
+            <div class="page-title-slider-content">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-md-12">
+                          <div class="title-center">
+                              <div class="title-middle">
+                                <h2 class="page-tagline">Order now</h2>
+                                <div class="page-title">Bike + Picnic</div>
+                              </div>
                           </div>
                       </div>
                   </div>
               </div>
+            </div>
           </div>
+          <div class="page-title-slider-item">
+            <img src="assets/images/bg.jpg" alt="">
+            <div class="page-title-slider-content">
+              <div class="container">
+                  <div class="row">
+                      <div class="col-md-12">
+                          <div class="title-center">
+                              <div class="title-middle">
+                                <h2 class="page-tagline">Order now</h2>
+                                <div class="page-title">Bike + Picnic</div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       <!-- Page Titile Area End -->
-    <section>
-          <div class="owl-Carousel picnic-carousel">
-            <div><img width="100%" src="assets/images/picnic.jpg" alt="" class="img-fluid"></div>
-            <div><img width="100%" src="assets/images/picnic.jpg" alt="" class="img-fluid"></div>
-            <div><img width="100%" src="assets/images/picnic.jpg" alt="" class="img-fluid"></div>
-          </div>
-    </section>
     <section class="section-padding">
       <div class="container">
         <div class="row">
