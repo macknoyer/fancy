@@ -492,16 +492,17 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title,.page-title {
 	font-size: 12px;
 	margin-bottom: 5px;
 	font-style: italic;
+	border-bottom: 1px solid #e6e6e6;
 }
 .rental-price {
-	font-size: 16px;
+	font-size: 18px;
 	text-align: center;
-	width: 50px;
+/*	width: 50px;
 	height: 50px;
-	line-height: 49px;
+	line-height: 49px;*/
 	font-weight: bold;
-	border-radius: 50%;
-	border: 2px solid #fb8c00;
+	/*border-radius: 50%;*/
+	/*border: 2px solid #fb8c00;*/
 	color:#fb8c00;
 }
 .founder {

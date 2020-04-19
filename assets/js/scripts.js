@@ -949,7 +949,10 @@ this.maxHours=t.getHours(),this.maxMinutes=t.getMinutes(),this.d.lastSelectedDat
       animateIn: 'flipInX',
 	  autoPlay: true,
 	  navigation: false,
-	  pagination: false
+	  pagination: false,
+	  itemsDesktopSmall: [1200, 1],
+	  itemsTablet: [992, 1],
+	  itemsMobile: [768, 1]
 	});
 
 	$(".bikes-carousel").owlCarousel({
