@@ -88,6 +88,7 @@ body {
     background:     rgba(0,0,0, 0.2);
     z-index: 1;
 }
+
 h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title,.page-title {
 	font-family: 'Cinzel', serif;
 	font-weight: bold;
@@ -461,6 +462,16 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title,.page-title {
 	/*text-shadow: 0 0 30px rgba(0, 0, 0, 0.75);*/
 	color:#fff;
 }
+.title-center.short {
+	background: none;
+	color:#333;
+	padding-top: 130px;
+}
+.title-center.short .page-tagline,.title-center.short  .page-title{
+	background: none;
+	color:#333;
+}
+
 .page-footer .widget {
 	margin-top: 0;
 }
