@@ -33,9 +33,6 @@ to you in the event of certain disputes.</p>
 </p>
                 <p>Fancy Apple reserves the right to change or modify these terms and conditions at any time and in our sole discretion. If we make changes to these terms and conditions, we will provide notice through the Sites or updating the “Revision Date” date at the beginning of these Terms. By continuing to access or use the Sites or order, receive or use Products, you confirm your acceptance of the revised terms and conditions and all of the terms incorporated therein by reference. We encourage you to review the terms and conditions frequently to ensure that you understand the terms and conditions that apply when you access or use the Sites or order, receive or use the Products. If you do not agree to the revised terms and conditions, you may not access or use the Sites or order, receive or use the Products.
 </p>
-                <p></p>
-                <p></p>
-                <p></p>
               </div>
           </div>
       </div>

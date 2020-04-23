@@ -851,6 +851,12 @@ ol li {
 	body {
 		font-size: 14px;
 	}
+	.types__content-header {
+		font-size: 21px;
+	}
+	.types__content-price {
+		font-size: 20px;
+	}
 	.types__content-img {
 		margin-bottom: 30px;
 	}
@@ -928,13 +934,28 @@ ol li {
 	.navbar-brand {
 		top: 9px;
 	}
+	.types__content-header {
+		font-size: 28px;
+	}
+	.types__content-price {
+		font-size: 24px;
+	}
 
+	.types-container.rent,.types-container.picnic {
+		margin: 14px 0;
+	}
 	.awwards-mobile {
 		display: none;
 	}
 }
 @media (max-width: 560px) {
 
+	.types__content-header {
+		font-size: 21px;
+	}
+	.types__content-price {
+		font-size: 20px;
+	}
 	.types-container {
 		margin: 0px 0px 15px 0px !important;
 	}
