@@ -328,8 +328,17 @@
             <div class="item">
               <div class="testimonial-item">
                 <div class="datils">
+                  <img src="assets/images/tripadvisor.svg" alt="" style="width:150px; height: auto; margin-bottom:20px">
+                  <div class="tripadw__rating">
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                  </div>
                    <h5>Great way to see central park</h5>
-                  <p>Our guide Tam was great. We thoroughly enjoyed our 2 hour tour. Took us all around the park ....<br>we were here in November so no crowds</p>
+                  <p>Our guide Tam was great. We thoroughly enjoyed our 2 hour tour. <br>Took us all around the park .... we were here in November so no crowds</p>
+                  <div class="tripadw__rating-date"><strong>Date of experience:</strong> February 2020</div>
                 </div>
                 <!-- <div class="img">
                   <a href="#"><img class="img-fluid" src="assets/images/testimonial/author1.jpg"  alt=""></a>
@@ -339,8 +348,17 @@
             <div class="item">
               <div class="testimonial-item">
                 <div class="datils">
+                  <img src="assets/images/tripadvisor.svg" alt="" style="width:150px; height: auto; margin-bottom:20px">
+                  <div class="tripadw__rating">
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                  </div>
                   <h5>Perfect Bike esperienze!</h5>
-                 <p>Everything was perfect, the bikes we rented were good and easy to ride. Farell is very helpful and supernice.<br> I reali recomend this Place right near Central Park !</p>
+                 <p>Everything was perfect, the bikes we rented were good and easy to ride. Farell is very helpful and supernice.<br> I realy recommend this Place right near Central Park !</p>
+                  <div class="tripadw__rating-date"><strong>Date of experience:</strong> February 2020</div>
                 </div>
                 <!-- <div class="img">
                   <a href="#"><img class="img-fluid"  src="assets/images/testimonial/author2.jpg"  alt=""></a>
@@ -350,8 +368,17 @@
             <div class="item">
               <div class="testimonial-item">
                 <div class="datils">
+                  <img src="assets/images/tripadvisor.svg" alt="" style="width:150px; height: auto; margin-bottom:20px">
+                  <div class="tripadw__rating">
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                    <div class="tripadw__rating-star"></div>
+                  </div>
                   <h5>Great service</h5>
-                  <p>Great experience, excellent service. The bikes are in good state and well manteined.<br> We rode most of the park in less than two hours and enjoyed every second! Great views, great exercise. We recommend to take it for at least two hours as it’s not possible to do it in an hour. Great service</p>
+                  <p>Great experience, excellent service. The bikes are in good state and well manteined.<br> We rode most of the park in less than two hours and enjoyed every second! Great views, great exercise.<br> We recommend to take it for at least two hours as it’s not possible to do it in an hour. Great service</p>
+                  <div class="tripadw__rating-date"><strong>Date of experience:</strong> February 2020</div>
                 </div>
                <!--  <div class="img">
                   <a href="#"><img class="img-fluid"  src="assets/images/testimonial/author3.jpg"  alt=""></a>
