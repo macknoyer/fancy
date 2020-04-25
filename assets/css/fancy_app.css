@@ -15,7 +15,7 @@ body {
 .section-dark {
 	background-color: #f0f0f0;
 }
-.fz22 {
+.fz22 {THERMALTAKE Versa H18
 	font-size: 22px;
 }
 .logo {
@@ -269,7 +269,7 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title,.page-title {
 	display: flex;
 	-ms-align-items: flex-end;
 	align-items: flex-end;*/
-	height: 400px;
+	/*height: 400px;*/
 /*	background-repeat: no-repeat;
 	background-position: center;*/
 	overflow: hidden;
