@@ -339,6 +339,7 @@
                    <h5>Great way to see central park</h5>
                   <p>Our guide Tam was great. We thoroughly enjoyed our 2 hour tour. <br>Took us all around the park .... we were here in November so no crowds</p>
                   <div class="tripadw__rating-date"><strong>Date of experience:</strong> February 2020</div>
+                  <div class="tripadw__rating-name"><strong>Chris B</strong>. From Halifax, Canada</div>
                 </div>
                 <!-- <div class="img">
                   <a href="#"><img class="img-fluid" src="assets/images/testimonial/author1.jpg"  alt=""></a>
@@ -359,6 +360,7 @@
                   <h5>Perfect Bike esperienze!</h5>
                  <p>Everything was perfect, the bikes we rented were good and easy to ride. Farell is very helpful and supernice.<br> I realy recommend this Place right near Central Park !</p>
                   <div class="tripadw__rating-date"><strong>Date of experience:</strong> February 2020</div>
+                  <div class="tripadw__rating-name"><strong>Mattia C</strong>. From United Kingdom</div>
                 </div>
                 <!-- <div class="img">
                   <a href="#"><img class="img-fluid"  src="assets/images/testimonial/author2.jpg"  alt=""></a>
@@ -377,8 +379,9 @@
                     <div class="tripadw__rating-star"></div>
                   </div>
                   <h5>Great service</h5>
-                  <p>Great experience, excellent service. The bikes are in good state and well manteined.<br> We rode most of the park in less than two hours and enjoyed every second! Great views, great exercise.<br> We recommend to take it for at least two hours as it’s not possible to do it in an hour. Great service</p>
-                  <div class="tripadw__rating-date"><strong>Date of experience:</strong> February 2020</div>
+                  <p>Hired bikes to go and cycle around Central Park. Very helpful staff and great bikes, a must do when in NYC.</p>
+                  <div class="tripadw__rating-date"><strong>Date of experience:</strong> November 2019</div>
+                  <div class="tripadw__rating-name"><strong>eireuisce</strong>. From Ireland</div>
                 </div>
                <!--  <div class="img">
                   <a href="#"><img class="img-fluid"  src="assets/images/testimonial/author3.jpg"  alt=""></a>

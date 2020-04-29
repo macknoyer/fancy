@@ -20,7 +20,7 @@
     <header id="header">
       <nav class="navbar navbar-expand-lg fixed-top scrolling-navbar nav-bg">
         <div class="container-fluid">
-          <a href="tel:917-720-8850" class="header-phone-mobile"><i class="mdi mdi-phone"></i> 917-720-8850</a>
+          <a href="tel:917-720-8850" class="header-phone-mobile"><i class="mdi mdi-phone"></i> <!-- 917-720-8850 --></a>
          <!-- Brand and toggle get grouped for better mobile display -->
           <div class="navbar-header">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
