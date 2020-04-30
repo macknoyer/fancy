@@ -135,6 +135,9 @@
                         <div class="owl-Carousel bikes-carousel">
                           <div class="text-center">
                             <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike1.jpg" alt="">
+                            <div class="rental-price-bike">
+                              HYBRID BIKE
+                            </div>
                             <div class="rental-price-wrapper">
                               <div class="rental-price-container">
                                 <div class="rental-price-head">1 hour</div>
@@ -156,6 +159,9 @@
                           </div>
                           <div class="text-center">
                             <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike2.jpg" alt="">
+                            <div class="rental-price-bike">
+                               CLASSY CRUISER (3 speed)
+                            </div>
 
                             <div class="rental-price-wrapper">
                               <div class="rental-price-container">
@@ -178,6 +184,9 @@
                           </div>
                           <div class="text-center">
                             <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike3.jpg" alt="">
+                            <div class="rental-price-bike">
+                               HYBRID BIKE
+                            </div>
                             <div class="rental-price-wrapper">
                               <div class="rental-price-container">
                                 <div class="rental-price-head">1 hour</div>
@@ -199,6 +208,9 @@
                           </div>
                           <div class="text-center">
                             <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/bike4.jpg" alt="">
+                            <div class="rental-price-bike">
+                              CLASSY HYBRID (7 speed)
+                            </div>
                             <div class="rental-price-wrapper">
                               <div class="rental-price-container">
                                 <div class="rental-price-head">1 hour</div>
@@ -220,6 +232,9 @@
                           </div>
                           <div class="text-center">
                             <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/child.jpg" alt="">
+                            <div class="rental-price-bike">
+                              BABY SEAT
+                            </div>
                             <div class="rental-price-wrapper">
                               <div class="rental-price-container">
                                 <div class="rental-price-head">1 hour</div>
@@ -241,6 +256,9 @@
                           </div>
                           <div class="text-center">
                             <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/child2.jpg" alt="">
+                            <div class="rental-price-bike">
+                              TRAILER (for 2 children)
+                            </div>
                             <div class="rental-price-wrapper">
                               <div class="rental-price-container">
                                 <div class="rental-price-head">1 hour</div>
@@ -262,6 +280,9 @@
                           </div>
                           <div class="text-center">
                             <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/tandem.jpg" alt="">
+                            <div class="rental-price-bike">
+                              TAG-ALONG
+                            </div>
                             <div class="rental-price-wrapper">
                               <div class="rental-price-container">
                                 <div class="rental-price-head">1 hour</div>
@@ -282,57 +303,6 @@
                             </div>
                           </div>
                         </div>
-                      </div>
-                      <div class="tab-pane fade" id="profile" role="tabpanel">
-                        <div class="owl-Carousel bikes-carousel">
-                          <div class="text-center">
-                            <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/ebike.jpg" alt="">
-                            <div class="rental-price-wrapper">
-                              <div class="rental-price-container">
-                                <div class="rental-price-head">1 hour</div>
-                                <div class="rental-price">9$</div>
-                              </div>
-                              <div class="rental-price-container">
-                                <div class="rental-price-head">2 hours</div>
-                                <div class="rental-price">14$</div>
-                              </div>
-                              <div class="rental-price-container">
-                                <div class="rental-price-head">4 hours</div>
-                                <div class="rental-price">19$</div>
-                              </div>
-                              <div class="rental-price-container">
-                                <div class="rental-price-head">All day</div>
-                                <div class="rental-price">25$</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="tab-pane fade" id="tandem" role="tabpanel">
-                        <div class="owl-Carousel bikes-carousel">
-                          <div class="text-center">
-                            <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/tandem2.jpg" alt="">
-                            <div class="rental-price-wrapper">
-                              <div class="rental-price-container">
-                                <div class="rental-price-head">1 hour</div>
-                                <div class="rental-price">9$</div>
-                              </div>
-                              <div class="rental-price-container">
-                                <div class="rental-price-head">2 hours</div>
-                                <div class="rental-price">14$</div>
-                              </div>
-                              <div class="rental-price-container">
-                                <div class="rental-price-head">4 hours</div>
-                                <div class="rental-price">19$</div>
-                              </div>
-                              <div class="rental-price-container">
-                                <div class="rental-price-head">All day</div>
-                                <div class="rental-price">25$</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
                       <div class="row">
                         <div class="col-md-6">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
@@ -358,6 +328,139 @@
                             </div>
                           </div>
                         </div>
+                      </div>
+                      </div>
+                      <div class="tab-pane fade" id="profile" role="tabpanel">
+                        <div class="owl-Carousel bikes-carousel">
+                          <div class="text-center">
+                            <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/ebike.jpg" alt="">
+                            <div class="rental-price-bike">
+                              Freedom 26”
+                            </div>
+                            <div class="rental-price-wrapper">
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">1 hour</div>
+                                <div class="rental-price">9$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">2 hours</div>
+                                <div class="rental-price">14$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">4 hours</div>
+                                <div class="rental-price">19$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">All day</div>
+                                <div class="rental-price">25$</div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="text-center">
+                            <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/ebike2.jpg" alt="">
+                            <div class="rental-price-bike">
+                              Freedom S 20”
+                            </div>
+                            <div class="rental-price-wrapper">
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">1 hour</div>
+                                <div class="rental-price">9$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">2 hours</div>
+                                <div class="rental-price">14$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">4 hours</div>
+                                <div class="rental-price">19$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">All day</div>
+                                <div class="rental-price">25$</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      <div class="row">
+                        <div class="col-md-6">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+                            <div>
+                              <a href="javascript:void(0)" class="btn btn-common w100"><i class="fa fa-check"></i> Book Now<div class="ripple-container"></div></a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 text-center">
+                          <!-- <img class="fareharbor-table" src="assets/images/fareharbor.png" alt="fareharbor"> -->
+                          <h4>Free with your bike rental</h4>
+                          <div class="d-flex justify-content-center">
+                            <div class="free-with-bike text-center">
+                              <img src="assets/images/helmet.png" alt="">
+                              <div>Bike Helmet</div>
+                            </div>
+                            <div class="free-with-bike text-center">
+                              <img src="assets/images/lock.png" alt="">
+                              <div>Lock</div>
+                            </div>
+                            <div class="free-with-bike text-center">
+                              <img src="assets/images/map.png" alt="">
+                              <div>Map</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      </div>
+                      <div class="tab-pane fade" id="tandem" role="tabpanel">
+                        <div class="owl-Carousel bikes-carousel">
+                          <div class="text-center">
+                            <img style="width: 250px; display: block; margin: auto;" class="img-fluid" src="assets/images/tandem2.jpg" alt="">
+                            <div class="rental-price-bike">
+                              TANDEM BIKES
+                            </div>
+                            <div class="rental-price-wrapper">
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">1 hour</div>
+                                <div class="rental-price">9$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">2 hours</div>
+                                <div class="rental-price">14$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">4 hours</div>
+                                <div class="rental-price">19$</div>
+                              </div>
+                              <div class="rental-price-container">
+                                <div class="rental-price-head">All day</div>
+                                <div class="rental-price">25$</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      <div class="row">
+                        <div class="col-md-6">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam nesciunt dolores quibusdam, officia sed mollitia, illo, quis, vel veniam officiis qui repellendus. Perferendis et, veritatis enim voluptatem libero consequuntur eveniet alias nesciunt fugit doloremque tempora id, impedit sed earum voluptatum itaque at. Expedita impedit facere magnam commodi sed dolorem adipisci.</p>
+                            <div>
+                              <a href="javascript:void(0)" class="btn btn-common w100"><i class="fa fa-check"></i> Book Now<div class="ripple-container"></div></a>
+                            </div>
+                        </div>
+                        <div class="col-md-6 text-center">
+                          <!-- <img class="fareharbor-table" src="assets/images/fareharbor.png" alt="fareharbor"> -->
+                          <h4>Free with your bike rental</h4>
+                          <div class="d-flex justify-content-center">
+                            <div class="free-with-bike text-center">
+                              <img src="assets/images/helmet.png" alt="">
+                              <div>Bike Helmet</div>
+                            </div>
+                            <div class="free-with-bike text-center">
+                              <img src="assets/images/lock.png" alt="">
+                              <div>Lock</div>
+                            </div>
+                            <div class="free-with-bike text-center">
+                              <img src="assets/images/map.png" alt="">
+                              <div>Map</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                       </div>
                     </div>
                   </div>

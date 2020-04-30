@@ -8,8 +8,8 @@
                 <div class="col-md-12">
                     <div class="title-center">
                         <div class="title-middle">
-                            <h2 class="page-tagline">New York's premier</h2>
-                            <div class="page-title">Bike Tours</div>
+                            <h2 class="page-tagline">Star Bike Rentals & Tours</h2>
+                            <div class="page-title">Get the Best of Big Apple</div>
                         </div>
                     </div>
                 </div>

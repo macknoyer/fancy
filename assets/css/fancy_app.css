@@ -168,6 +168,7 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title,.page-title {
 .navbar-brand img {
 	width: 270px;
 }
+
 .navbar {
 	padding: 10px 0;
 }
@@ -511,6 +512,12 @@ h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title,.page-title {
 	margin-top: 20px;
 	text-align: center;
 }
+.rental-price-bike {
+	font-size: 16px;
+	font-weight: bold;
+	margin: 10px 0;
+	text-transform: uppercase;
+}
 .rental-price-wrapper.ebikes{
 	text-align: left;
 }
@@ -781,7 +788,7 @@ ol li {
 .header-phone-mobile {
 	display: none;
 	/*left: calc(50% - 70px);*/
-	right: calc(50% - 100px);
+	right: 30px;
 	/*top: 30px;*/
 	top: 26px;
 	position: absolute;
@@ -880,6 +887,9 @@ ol li {
 	font-family: "Open Sans", sans-serif;
 	font-weight: normal;
 }
+.slicknav_btn {
+	float: left;
+}
 /**************************************media***************/
 
 @media (max-width: 1300px) {
@@ -914,10 +924,14 @@ ol li {
 		display: none;
 	}
 }
+
 @media (max-width: 992px) {
 
 	body {
 		font-size: 14px;
+	}
+	.slicknav_menu {
+	    display: block;
 	}
 	.types__content-header {
 		font-size: 21px;
@@ -978,12 +992,16 @@ ol li {
 		padding: 0 15px;
 	}
 	.navbar-brand {
-		top: 0;
-		/*width: 70px;*/
 		width: auto;
 		overflow: hidden;
 		margin-right: 0;
 		padding: 0;
+		left: calc(50% - 90px);
+		top: 20px;
+		position: absolute;
+	}
+	.navbar-brand img {
+		    width: 180px;
 	}
 	.section-title {
 		font-size: 22px;
@@ -1005,13 +1023,8 @@ ol li {
 }
 
 @media (max-width: 770px) {
-
-	.navbar-brand {
-		/*top: 9px;*/
-		    top: 20px;
-	}
-	.navbar-brand img {
-		    width: 180px;
+	.section-title::before {
+		bottom: 10px !important;	
 	}
 	.types__content-header {
 		font-size: 28px;
