@@ -751,6 +751,9 @@ ol li {
 .Material-tab-default ul.nav.nav-tabs li a:hover{
 	color:#333 !important;
 }
+.picnic-carousel {
+	margin-bottom: 20px;
+}
 .picnic-carousel img{
 	width: 100%;
 	height: auto;
@@ -1058,6 +1061,12 @@ a.back-to-top {
 }
 
 @media (max-width: 770px) {
+	.pricing-icon {
+		height: 230px;
+	}
+	.icon-table .single-pricing-table,.icon-table .single-pricing-table {
+		height: auto;
+	}
 	.types-container.picnic .types__content, .types-container.rent .types__content{
 		bottom: 30px;
 	}
