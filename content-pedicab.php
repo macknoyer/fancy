@@ -3,14 +3,13 @@
       <section class="page-title-section section-padding">
         <div class="page-title-slider owl-Carousel">
           <div class="page-title-slider-item">
-            <img src="assets/images/bg.jpg" alt="">
+            <img src="assets/images/slider/pedicab/slide1.jpg" alt="slide1">
             <div class="page-title-slider-content">
               <div class="container">
                   <div class="row">
                       <div class="col-md-12">
                           <div class="title-center">
                               <div class="title-middle">
-                                <h2 class="page-tagline">Order now</h2>
                                 <div class="page-title">Pedicab Tours</div>
                               </div>
                           </div>
@@ -20,14 +19,13 @@
             </div>
           </div>
           <div class="page-title-slider-item">
-            <img src="assets/images/bg.jpg" alt="">
+            <img src="assets/images/slider/pedicab/slide1.jpg" alt="slide1">
             <div class="page-title-slider-content">
               <div class="container">
                   <div class="row">
                       <div class="col-md-12">
                           <div class="title-center">
                               <div class="title-middle">
-                                <h2 class="page-tagline">Order now</h2>
                                 <div class="page-title">Pedicab Tours</div>
                               </div>
                           </div>

@@ -2,7 +2,7 @@
       <section class="page-title-section section-padding">
         <div class="page-title-slider owl-Carousel">
           <div class="page-title-slider-item">
-            <img src="assets/images/bg.jpg" alt="">
+            <img src="assets/images/tours/slide1.jpg" alt="">
             <div class="page-title-slider-content">
               <div class="container">
                   <div class="row">
@@ -19,7 +19,7 @@
             </div>
           </div>
           <div class="page-title-slider-item">
-            <img src="assets/images/bg.jpg" alt="">
+            <img src="assets/images/tours/slide2.jpg" alt="">
             <div class="page-title-slider-content">
               <div class="container">
                   <div class="row">
