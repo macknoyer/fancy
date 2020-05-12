@@ -49,6 +49,7 @@ body {
 	text-align: center;
 	color:#333;
 	font-size: 42px;
+	position: relative;
 }
 .section-title::before {
 	bottom: -10px;
@@ -94,8 +95,11 @@ body {
     z-index: 1;
 }
 
-h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.section-title,.page-title {
+h1,.h1,.section-title,.page-title {
 	font-family: 'Cinzel', serif;
+	font-weight: bold;
+}
+,h2,.h2,h3,.h3,h4,.h4,h5,.h5 {
 	font-weight: bold;
 }
 h2,.h2 {
@@ -970,7 +974,12 @@ a.back-to-top {
 }
 
 @media (max-width: 992px) {
-
+	.locations-img {
+		height: auto;
+	}
+	.section-padding {
+		padding: 25px 0;
+	}
 	h2,.h2 {
 		font-size: 24px;	
 	}
@@ -1093,9 +1102,6 @@ a.back-to-top {
 	}
 	.types-container::after {
 		height: 100%;
-	}
-	.section-title::before {
-		bottom: 10px !important;	
 	}
 	.types__content-header {
 		font-size: 28px;
