@@ -379,7 +379,7 @@ h3,.h3 {
 	transform-origin: center;
 }
 .types__content-header {
-	font-family: 'Cinzel', serif;
+	/*font-family: 'Cinzel', serif;*/
 	font-size: 28px;
 	color:#fff;
 	font-weight: 900;
@@ -646,7 +646,7 @@ h3,.h3 {
 .price-item-head {
 	color:#fff;
 	font-size: 30px;
-	font-family: 'Cinzel', serif;
+	/*font-family: 'Cinzel', serif;*/
 	text-transform: uppercase;
 	font-weight: 700;
 }
