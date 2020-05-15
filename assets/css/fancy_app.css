@@ -678,7 +678,7 @@ h3,.h3 {
 
 .pricing-icon {
 	margin: -20px -20px 20px -20px;
-	height: 305px;
+	max-height: 305px;
 	overflow: hidden;
 	position: relative;
 }
