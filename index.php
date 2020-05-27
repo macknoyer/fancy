@@ -8,7 +8,7 @@
                 <div class="col-md-12">
                     <div class="title-center">
                         <div class="title-middle">
-                            <h2 class="page-tagline">Star Bike Rentals & Tours</h2>
+                            <h2 class="page-tagline">5-Star Bike Rentals and Tours</h2>
                             <div class="page-title">Get the Best of Big Apple</div>
                         </div>
                     </div>

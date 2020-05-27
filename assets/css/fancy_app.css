@@ -75,10 +75,10 @@ body {
 	position: relative;	
 }
 .section-padding {
-	padding: 50px 0;
+	padding: 25px 0;
 }
 .section-padding-top {
-	padding: 50px 0 0 0;
+	padding: 25px 0 0 0;
 }
 .hero-heading {
 	line-height: 1.45 !important;
@@ -109,7 +109,6 @@ h2,.h2 {
 }
 h3,.h3 {
 	margin-bottom: .5rem;
-	margin-top: 1.5rem;
 	font-size: 24px;	
 }
 .h4, h4 {
@@ -309,7 +308,7 @@ h3,.h3 {
 .types-container.tour {
 	/*background-image: url('../images/tour.jpg');*/
 	justify-content: flex-end;
-	margin: 0px 14px 14px 0px;
+	margin: 0px 7px 7px 0px;
 }
 .types-container.tour .types__content,.types-container.special .types__content{
 	text-align: right;
@@ -322,7 +321,7 @@ h3,.h3 {
 }
 .types-container.rent{
 	/*background-image: url('../images/rent.jpg');*/
-	margin: 0px 0px 14px 14px;
+	margin: 0px 0px 7px 7px;
 }
 /*.types-container.rent:after,.types-container.picnic:after{
 	background: rgba(0,0,0,1);
@@ -337,11 +336,11 @@ h3,.h3 {
 .types-container.special{
 	/*background-image: url('../images/special.jpg');*/
 	justify-content: flex-end;
-	margin: 14px 14px 0px 0px;
+	margin: 7px 7px 0px 0px;
 }
 .types-container.picnic{
 	/*background-image: url('../images/picnic.jpg');*/
-	margin: 14px 0px 0px 14px;
+	margin: 7px 0px 0px 7px;
 }
 .types-container:after {
     content: "";
@@ -491,7 +490,8 @@ h3,.h3 {
 	padding-top: 0;
 }
 .title-center {
-	background-color: rgba(0,0,0, 0.5);
+	/*background-color: rgba(0,0,0, 0.5);*/
+	text-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
 	padding: 50px;
 	display: inline-block;
 }
@@ -504,7 +504,7 @@ h3,.h3 {
 	z-index: 2;	
 	position: relative;	
 	text-align: center;
-	/*text-shadow: 0 0 30px rgba(0, 0, 0, 0.75);*/
+	text-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
 	color:#fff;
 }
 .title-center.short {
@@ -605,7 +605,7 @@ h3,.h3 {
 	background: #fff;
 }
 .icon-table .single-pricing-table.index {
-	padding-bottom: 50px;
+	padding-bottom: 25px;
 }
 .icon-table .single-pricing-table .price .price-item span{
 	font-size: 24px;
@@ -925,6 +925,9 @@ ol li {
 a.back-to-top {
 	z-index: 99;
 }
+.page-title-section.section-padding {
+	padding-top: 0;
+}
 /****************************************blog*******************/
 .btn.btn-fab i.material-icons, 
 .input-group-btn .btn.btn-fab i.material-icons {
@@ -944,10 +947,10 @@ a.back-to-top {
 }
 @media (max-width: 1150px) {
 	.page-tagline {
-		font-size: 18px;
+		font-size: 14px;
 	}
 	.page-title {
-		font-size: 42px;
+		font-size: 24px;
 	}
 	.page-title-slider-item .page-title-slider-content {
 		top: calc(50% - 91px);
@@ -961,6 +964,8 @@ a.back-to-top {
 	.icon-table .single-pricing-table {
 		height: auto;
 		margin-bottom: 44px;
+		box-shadow: none;
+		background: transparent;
 	}
 	.icon-table .col-lg-6:last-child .single-pricing-table {
 		margin-bottom: 0;
@@ -978,6 +983,9 @@ a.back-to-top {
 }
 
 @media (max-width: 992px) {
+	.title-center,.page-title {
+		text-shadow: none;
+	}
 	.locations-img {
 		height: auto;
 	}
@@ -985,14 +993,14 @@ a.back-to-top {
 		padding: 25px 0;
 	}
 	h2,.h2 {
-		font-size: 24px;	
+		font-size: 20px;	
 	}
 	h3,.h3 {
 		margin-bottom: .5rem;
 		margin-top: 1.5rem;
-		font-size: 20px;	
+		font-size: 18px;	
 	}
-	.page-title {font-size: 32px;}
+	.page-title {font-size: 18px;}
 	body {
 		font-size: 14px;
 	}
@@ -1070,14 +1078,17 @@ a.back-to-top {
 		    width: 180px;
 	}
 	.section-title {
-		font-size: 22px;
-		margin-bottom: 30px;
+		font-size: 18px;
+		margin-bottom: 25px;
+	}
+	.page-title-section .title-center, .call-to-action-section .container {
+		text-shadow: none;
 	}
 	.awwards-container,.about-single {
-		margin-top: 30px;
+		margin-top: 15px;
 	}
 	.welcome-column,.footer-contact-widget {
-		margin-bottom: 30px;
+		margin-bottom: 15px;
 	}
 	.section-title.white {
 		color:#333;
@@ -1086,9 +1097,24 @@ a.back-to-top {
 		background: none;
 	}
 	.testimonial::after {display: none;}
+	.page-footer .footer-title {
+		margin-top: 0;
+	}
 }
 
-@media (max-width: 770px) {
+@media (max-width: 767px) {
+	.page-title-section .title-center {
+		padding-top: 25px;
+	}
+	.testimonial.section-padding {
+		padding: 0;
+	}
+	.testimonials-carousel {
+		box-shadow: none;
+	}
+	.icon-table .single-pricing-table {
+		margin-bottom: 25px;
+	}
 	.pricing-icon {
 		height: 230px;
 	}
@@ -1108,10 +1134,10 @@ a.back-to-top {
 		height: 100%;
 	}
 	.types__content-header {
-		font-size: 28px;
+		font-size: 22px;
 	}
 	.types__content-price {
-		font-size: 24px;
+		font-size: 20px;
 	}
 
 	.types-container.rent,.types-container.picnic {
@@ -1131,6 +1157,10 @@ a.back-to-top {
 	}
 	.types-container {
 		margin: 0px 0px 15px 0px !important;
+	}
+
+	.types-container.picnic {
+		margin-bottom: 0 !important;
 	}
 	.hero {
 	    padding: 251px 0 0 0;
