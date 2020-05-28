@@ -515,6 +515,7 @@ h3,.h3 {
 	color:#333;
 	padding-top: 130px;
 	display: block;
+	text-shadow: none;
 }
 .title-center.short .page-tagline,.title-center.short  .page-title{
 	background: none;
